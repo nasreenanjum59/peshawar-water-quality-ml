@@ -27,14 +27,24 @@ jobs:
           python -m pip install "pandas==2.2.3" "matplotlib==3.9.4" "scikit-learn==1.6.1"
       - name: Regenerate plots from frozen predictions
         run: python src/plot_archived_ml_figures.py
-      - name: Commit four PNG outputs
+      - name: Commit PNG outputs, accounting for concurrent documentation changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add results/figures/*.png
           if git diff --cached --quiet; then
             echo "Plot files are already current."
-          else
-            git commit -m "Regenerate four ML diagnostic figures from archived results"
-            git push
+            exit 0
           fi
+          git commit -m "Regenerate four ML diagnostic figures from archived results"
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git rebase origin/main
+            if git push origin HEAD:main; then
+              echo "Figures committed to main."
+              exit 0
+            fi
+            sleep 2
+          done
+          echo "Could not push generated figures."
+          exit 1
