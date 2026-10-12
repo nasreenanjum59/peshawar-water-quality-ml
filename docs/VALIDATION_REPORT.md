@@ -5,7 +5,9 @@
 - The separate Zenodo review workbook was checked against the original analysis-ready workbook checksum (SHA-256: e2cbaeb755a37a132caef555abe850fc628f13bc1ed1bea3d2c4f4bbd564b89c).
 - The archived results contain 16 headline summary rows: eight models evaluated over the primary 2016–2023 rolling period and the separately described 2024 period.
 - Primary sample count: 584. Separate 2024 sample count: 76.
-- Python source compilation and three package tests passed during packaging.
+- Python source compilation and three package checks passed during the initial packaging.
+- On 12 October 2026, after converting the ML checks into standard \`unittest.TestCase\` tests, five checks passed locally against the deposited workbook: two dataset-integrity tests and three ML output/temporal-split tests. These are consistency tests and do not constitute an independent full model rerun.
+- GitHub Actions workflow \`.github/workflows/verify-repository.yml\` was added to run those five checks on the default branch; check its actual run status before claiming CI success.
 - A complete reduced software smoke test using the full workbook and --quick mode completed, including nested fold generation, benchmarks and exploratory sensitivity checks.
 
 ## Private GitHub upload integrity (12 October 2026)
