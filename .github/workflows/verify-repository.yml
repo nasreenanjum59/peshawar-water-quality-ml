@@ -1,0 +1,37 @@
+name: Verify deposited ML package
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tests/**'
+      - 'src/peshawar_ml.py'
+      - 'data/WQ_Peshawar_2009-2024_analysis_ready.xlsx'
+      - 'results/02_fold_hyperparameters.csv'
+      - 'results/05_main_aggregated_results.csv'
+      - '.github/workflows/verify-repository.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out deposited files
+        uses: actions/checkout@v4
+      - name: Configure Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install unit-test dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install "numpy==2.0.2" "pandas==2.2.3" "scikit-learn==1.6.1" "xgboost==2.1.4" "openpyxl==3.1.5"
+      - name: Check archive consistency and data integrity
+        run: python -m unittest discover -s tests -p 'test_*.py' -v
+
+# These tests verify the deposited workbook and archived headline results.
+# They do not rerun the complete modelling workflow or independently validate
+# laboratory records; those are separate scientific release checks.
