@@ -1,0 +1,4 @@
+model,test_n,threshold,AUC,AP,Brier,prevalence,TN,FP,FN,TP,sensitivity,specificity,PPV,NPV,note
+Logistic regression,76,0.3975574031,0.7005742412,0.8531947662,0.2123129756,0.6973684211,9,14,12,41,0.7735849057,0.3913043478,0.7454545455,0.4285714286,exploratory SMOTE-NC; fixed hyperparameters from original nested 2024 tuning
+Random forest,76,0.4007060896,0.6423297785,0.7827800795,0.2191639101,0.6973684211,7,16,9,44,0.8301886792,0.3043478261,0.7333333333,0.4375,exploratory SMOTE-NC; fixed hyperparameters from original nested 2024 tuning
+XGBoost,76,0.4003315568,0.6784249385,0.8196282397,0.2120209359,0.6973684211,8,15,11,42,0.7924528302,0.347826087,0.7368421053,0.4210526316,exploratory SMOTE-NC; fixed hyperparameters from original nested 2024 tuning
