@@ -1,7 +1,7 @@
-# Zenodo deposit draft — **do not publish yet**
+# Optional Zenodo deposit draft — **do not publish yet**
 
 **Status:** Metadata draft for co-author and data-owner review. No Zenodo record or DOI
-has been created. The code repository is private.
+has been created. The code and dataset repository is private. A Zenodo deposit is optional and is not currently planned for publication.
 
 ## Recommended deposit
 
@@ -45,9 +45,9 @@ generalisation to new water sampling locations.
 
 1. Separate dataset review ZIP containing the original analysis-ready
    workbook, Python code, results, and documentation.
-2. Private version-controlled GitHub repository containing scripts and
-   de-identified ML analysis outputs. Review whether even sample identifiers
-   in model-output CSVs are suitable for release.
+2. Private version-controlled GitHub repository containing the analysis-ready
+   workbook, scripts and sample-level ML output tables. Review exact dates,
+   site names and laboratory register identifiers before any public release.
 3. Journal-specific supplementary information, distinct from the repository.
 
 ## Mandatory checks before pressing Publish
