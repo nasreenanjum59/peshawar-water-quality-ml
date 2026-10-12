@@ -1,0 +1,9 @@
+# Avoid accidental data and local output commits.
+/data/
+/runs/
+/.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+.DS_Store
