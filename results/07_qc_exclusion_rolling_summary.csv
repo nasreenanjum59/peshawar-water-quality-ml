@@ -1,0 +1,4 @@
+model,n,AUC,AP,Brier,prevalence,caution
+B2 source and season,512,0.6949266922,0.8420260321,0.1880212903,0.708984375,Different evaluation cohort: DO and TN flagged rows excluded
+Logistic regression,512,0.7027936473,0.839627714,0.1862165154,0.708984375,Different evaluation cohort: DO and TN flagged rows excluded
+XGBoost,512,0.6888716327,0.8268635598,0.1938028439,0.708984375,Different evaluation cohort: DO and TN flagged rows excluded
