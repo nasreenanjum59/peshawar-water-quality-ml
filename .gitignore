@@ -1,5 +1,7 @@
-# Avoid accidental data and local output commits.
-/data/
+# Ignore local copies and unapproved additional data; track only the reviewed input.
+/data/*
+!/data/README.md
+!/data/WQ_Peshawar_2009-2024_analysis_ready.xlsx
 /runs/
 /.venv/
 __pycache__/
