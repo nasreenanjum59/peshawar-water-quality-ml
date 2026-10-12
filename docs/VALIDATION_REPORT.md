@@ -8,6 +8,14 @@
 - Python source compilation and three package tests passed during packaging.
 - A complete reduced software smoke test using the full workbook and --quick mode completed, including nested fold generation, benchmarks and exploratory sensitivity checks.
 
+## Private GitHub upload integrity (12 October 2026)
+
+- The 1,800-record analysis-ready Excel workbook was committed privately at `data/WQ_Peshawar_2009-2024_analysis_ready.xlsx`.
+- File SHA-256: `e2cbaeb755a37a132caef555abe850fc628f13bc1ed1bea3d2c4f4bbd564b89c`.
+- Git blob SHA-1: `ec629c02deccf16109b61ddfa8fc8444e921b291`; the GitHub object matched the SHA-1 calculated on the original bytes.
+- The workbook contains `analysis_data`, `data_dictionary` and `notes_for_analysis` sheets; 1,800 data rows are distributed across three source groups (600 each).
+- The repository was confirmed **private** at upload time. This Git-object integrity check does not replace an independent scientific rerun.
+
 ## Outstanding checks
 
 The archived model results were generated with Python 3.9.13, NumPy 2.0.2, pandas 2.2.3, scikit-learn 1.6.1 and XGBoost 2.1.4. The smoke test used a different local environment, including XGBoost 3.1.3, and a reduced hyperparameter search. **The smoke test is not an exact reproduction of the archived publication results.**
