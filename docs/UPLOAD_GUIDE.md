@@ -1,23 +1,50 @@
-# GitHub and Zenodo release workflow
+# GitHub dataset and Python code release
 
-## Current GitHub repository
+## Repository
 
-Repository: https://github.com/nasreenanjum59/peshawar-water-quality-ml
+https://github.com/nasreenanjum59/peshawar-water-quality-ml
 
-The repository is **private** pending author approval. It now contains the machine-learning source code, tests, figures, run metadata, numerical results **and the exact analysis-ready workbook** under `data/`. The workbook must remain private until the data owners and all co-authors authorize release, dates and laboratory identifiers are reviewed, the required scientific checks are completed, and double-anonymised peer-review implications are considered.
+The GitHub repository contains the 2009–2024 analysis-ready water-quality
+workbook (1,800 observations and data dictionary), the Python machine-learning
+pipeline, temporal validation outputs, model comparisons, diagnostic figures,
+reproducibility instructions and integrity tests.
 
-## Public-release review and optional DOI workflow
+The ML analysis uses municipal tap-water and tube-well samples (n = 1,200)
+to predict laboratory-measured `E. coli` detection. River-water samples are
+provided for the wider study but are not included in the ML models.
 
-1. Co-authors and the data-owning institution review the analysis-ready workbook, its metadata dictionary and any sensitive fields.
-2. Confirm that the code and frozen results reproduce the final manuscript in the recorded software environment.
-3. After approval, make an audited GitHub release public if a public GitHub repository is the chosen journal repository. Confirm all files and histories are appropriate for disclosure before changing visibility.
-4. **Optional:** Sign in at https://zenodo.org and prepare a dataset or software deposit. Enter verified creators, ORCIDs, version, related article, abstract, license, access conditions and keywords.
-5. If Zenodo is used, reserve and publish a DOI only after final approval. Cite only the actual DOI after it has been assigned. GitHub alone does not require a Zenodo DOI.
-6. If an archived software release is desired, Zenodo can be linked to GitHub; a separate dataset record may be preferable for original data.
+## Confirm public accessibility
+
+1. Verify data-owner and co-author permission to distribute the workbook,
+   including its exact dates, site names and laboratory register references.
+2. Verify final results, data metadata, author information, licenses and
+   relevant journal double-anonymised review requirements.
+3. In GitHub, open **Settings → General → Danger Zone → Change repository
+   visibility**, choose **Public** and confirm. Access to Settings requires
+   repository administration permission.
+4. Open the repository from a signed-out browser to check that the dataset,
+   Python files, documentation and results are accessible.
+5. Check **Actions → Verify deposited ML package** for the five automated
+   integrity and results checks. This verification is not a substitute for an
+   independent end-to-end model rerun.
+6. Add the verified repository URL to the final manuscript Data Availability
+   Statement, clearly limiting the code deposit's scope to the ML component.
+
+**Important:** GitHub public visibility also exposes reachable Git history.
+Inspect past commits and uploaded metadata before changing visibility.
+
+## Optional Zenodo DOI
+
+A Zenodo deposit is optional, not a requirement for GitHub access. If an
+archival DOI is desired, create a Zenodo record using verified creators,
+ORCIDs, affiliations, licenses and version details, then cite the DOI actually
+issued. Do not cite a placeholder DOI.
 
 Official resources:
 - https://help.zenodo.org/docs/deposit/create-new-upload/
 - https://help.zenodo.org/docs/github/enable-repository/
 - https://help.zenodo.org/docs/github/archive-software/github-upload/
 
-The manuscript's Data Availability Statement and reviewer response must reflect what reviewers can actually access. The included dataset and ML code facilitate reanalysis of this ML component, but the current archive does not reproduce the manuscript's CF, PLI, WQI, temporal trend tests or PCA. The manuscript and reviewer response must not imply full-paper reproducibility until those workflows are also deposited and verified.
+The current GitHub code reproduces the machine-learning workflow only.
+Physicochemical indices (CF, PLI, WQI), PCA and temporal trend analyses
+require their own verified supporting code or documentation.

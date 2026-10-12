@@ -1,7 +1,7 @@
 # Reproducible ML diagnostic figures
 
 The following four PNG files were **successfully regenerated and committed**
-by a private GitHub Actions run on 12 October 2026, using the frozen
+by a GitHub Actions run on 12 October 2026, using the frozen
 sample-level result tables in `results/`.
 
 | Figure file | Content |

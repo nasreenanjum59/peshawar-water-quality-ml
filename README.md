@@ -1,7 +1,7 @@
 # Peshawar water-quality ML reanalysis
 
 **Manuscript:** EW-ART-05-2026-000506, *Environmental Science: Water Research & Technology*  
-**Status:** private co-author review repository containing the analysis-ready workbook, code and archived outputs; no public release or DOI has been issued  
+**Contents:** analysis-ready dataset, reproducible ML code, archived model outputs and supporting documentation. GitHub is the primary distribution platform; no DOI has been assigned.  
 **Analysis frozen:** 9 October 2026; repository documentation updated 12 October 2026
 
 ## Scope
@@ -37,11 +37,10 @@ They are **not** an untouched independent external validation set.
 - `docs/RELEASE_READINESS.md`: verified contents, public-release approval gates,
   double-anonymised review considerations and publication steps.
 - `docs/UPLOAD_GUIDE.md`: instructions for GitHub and Zenodo deposits.
-- `data/WQ_Peshawar_2009-2024_analysis_ready.xlsx`: **included in this private
-  repository only**, with 1,800 observations plus the data dictionary and analysis
-  notes. It contains exact collection dates, location names and laboratory register
-  references that must be assessed before the repository is made public.
-  The workbook is not yet approved for public redistribution.
+- `data/WQ_Peshawar_2009-2024_analysis_ready.xlsx`: analysis-ready workbook with
+  1,800 observations, a data dictionary and analysis notes. This dataset includes
+  collection dates, sampling-site names and laboratory register references.
+  Consult `data/README.md` for data provenance and interpretation.
 
 ## Run the analysis
 
@@ -110,13 +109,18 @@ The analysis does not establish added discrimination over source and season.
    natural class prevalence. SHAP describes the fitted model, not causation.
 5. This repository does **not** establish model transportability beyond the
    two fixed drinking-water monitoring sites, clinical risk, or a real-time
-   warning capability. The direct WQI benchmark and learning-curve request
-   remain open until verified and integrated by the authors.
+   warning capability. The former WQI-class prediction task and its learning curves
+   are not used to substantiate the revised, independently measured E. coli outcome.
 
-**Release status:** The input workbook, ML code, results and figures are now stored
-in this **private** repository for author review. This is not a public data deposit.
-The full historical-environment rerun, original laboratory provenance checks,
-co-author/data-owner permission, and the other manuscript analyses remain outstanding.
-GitHub-only public release may be sufficient for the manuscript; Zenodo archiving is
-optional and no DOI should be claimed unless one is formally issued.
-See `docs/DATA_RELEASE_CHECKLIST.md`.
+## Dataset and code availability
+
+The analysis-ready workbook, ML code, archived numerical results and figures are
+included in this GitHub repository. The repository documents the **ML analysis**;
+CF/PLI/WQI, PCA and temporal-trend calculations are outside the present code package.
+The five integrity and archived-output tests passed in GitHub Actions. These checks
+do not substitute for an exact end-to-end rerun of the publication environment.
+
+For reuse, verify source-data permissions and attribution, agree on licenses for
+software and data, and confirm that the repository is publicly accessible.
+See `docs/RELEASE_READINESS.md`. Optional Zenodo archiving has not been assigned
+a DOI.

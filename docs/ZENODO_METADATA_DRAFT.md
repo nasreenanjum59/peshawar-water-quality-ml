@@ -1,72 +1,47 @@
-# Optional Zenodo deposit draft — **do not publish yet**
+# Optional Zenodo metadata template
 
-**Status:** Metadata draft for co-author and data-owner review. No Zenodo record or DOI
-has been created. The code and dataset repository is private. A Zenodo deposit is optional and is not currently planned for publication.
+Zenodo archiving is optional. The primary dataset and ML code files are
+included in the GitHub repository at
+https://github.com/nasreenanjum59/peshawar-water-quality-ml.
+No Zenodo record or DOI has yet been assigned.
 
-## Recommended deposit
+## Suggested Zenodo metadata (if archival DOI is desired)
 
-- **Upload type:** Dataset (data and computational analysis)
-- **Working title:** Temporal machine-learning reanalysis of E. coli detection in
-  municipal tap and tube-well water, Peshawar, Pakistan (2009–2024)
-- **Version:** To be agreed before publication
-- **Publication date:** Actual date of Zenodo publication (do not predate)
-- **Creators, affiliations, ORCIDs:** Complete only after author approval,
-  in the agreed author order
-- **Related manuscript:** Environmental Science: Water Research & Technology,
-  manuscript EW-ART-05-2026-000506. Confirm linking and double-anonymised
-  review requirements before release.
+- **Deposit type:** Dataset and accompanying computational analysis
+- **Working title:** Temporal machine-learning reanalysis of E. coli
+  detection in municipal tap and tube-well water, Peshawar, Pakistan
+  (2009–2024)
+- **Version and publication date:** The actual approved release tag and date
+- **Creators, ORCIDs and affiliations:** Enter the verified author-approved
+  names and contributor order
+- **Related article:** Environmental Science: Water Research & Technology,
+  manuscript EW-ART-05-2026-000506
 - **Keywords:** E. coli; microbiological water quality; municipal tap water;
-  tube-well groundwater; temporal validation; machine learning; Peshawar; Pakistan
-- **Licenses:** Select code and dataset licenses *separately* with consent
-  from all rightsholders; do not assume a license.
-- **Access:** Keep draft unpublished while permissions, possible personal data,
-  analytical units, and laboratory quality-assurance checks remain open.
+  tube-well groundwater; temporal validation; machine learning; Peshawar
+- **Licenses:** Specify approved data and software reuse terms separately
+- **Access:** Select terms consistent with institutional data ownership and
+  journal double-anonymised review requirements
 
-## Proposed description
+## Description for a future deposit
 
-This planned archive documents the machine-learning component of a 2009–2024
-retrospective water-quality study in Peshawar, Pakistan. The complete
-analysis-ready workbook contains 1,800 observations spanning three water
-sources. The ML analysis uses 1,200 tap-water and tube-well observations;
-the independently measured outcome is laboratory E. coli detection
-(>0 vs 0 CFU/100 mL). The primary comparison consists of 584 nested
-rolling-origin out-of-time predictions from 2016–2023, supplemented by
-76 separately reported observations from 2024 that had been previously
-inspected during model development and are not a strictly untouched holdout.
+This archive documents the machine-learning component of a retrospective
+water-quality study conducted in Peshawar, Pakistan, between 2009 and 2024.
+The analysis-ready workbook includes 1,800 records from three water sources.
+The ML component uses 1,200 municipal tap-water and tube-well observations
+to predict independently measured E. coli detection (>0 versus 0 CFU/100 mL).
+The primary analysis uses 584 out-of-time nested rolling-origin predictions
+from 2016–2023. A separate evaluation of 76 samples from 2024 is described
+as previously examined, not an untouched external test.
 
-The archived model outputs include performance and uncertainty summaries,
-temporal folds, individual predictions, baseline comparisons, sensitivity
-analyses, and training-only global SHAP summaries. Associated scripts
-document preprocessing, fitting, assessment, and graphical rendering.
-The analysis does not establish real-time deployment, causality, or
-generalisation to new water sampling locations.
+Archived outputs include nested validation-fold information, model scores
+and uncertainty summaries, predicted probabilities, baseline comparisons,
+sensitivity analyses and global training-period SHAP summaries. The
+accompanying Python scripts document preprocessing, model fitting, evaluation
+and plot generation. The analyses do not demonstrate real-time prediction,
+causal inference or spatial generalisability beyond the two monitoring sites.
 
-## Materials under review
+## Suggested references
 
-1. Separate dataset review ZIP containing the original analysis-ready
-   workbook, Python code, results, and documentation.
-2. Private version-controlled GitHub repository containing the analysis-ready
-   workbook, scripts and sample-level ML output tables. Review exact dates,
-   site names and laboratory register identifiers before any public release.
-3. Journal-specific supplementary information, distinct from the repository.
-
-## Mandatory checks before pressing Publish
-
-- Written author/institution approval for data and software distribution.
-- Site names, exact dates, original register identifiers, and any sensitive
-  sampling metadata reviewed; redact or restrict only with documented changes.
-- Laboratory-confirmed nitrate/ammonium reporting basis and QA/QC checked.
-- Complete original-software-environment re-run and manuscript/SI reconciliation.
-- Appropriate authorship, ORCIDs, funding, licenses, and release version.
-- Double-anonymised peer-review compatibility and data citation agreed.
-
-## Suggested Data Availability Statement after approval (not for use yet)
-
-The analysis-ready data and Python code underlying the machine-learning
-component are archived at Zenodo (DOI: [insert DOI only after assignment]).
-The versioned analysis code is also available at [approved public GitHub URL].
-Methods and supplementary tables for the other analyses are described in the
-article and Supplementary Information. Any access restrictions and exclusions
-are explained in the Zenodo record.
-
-No data archive is represented as publicly available until it genuinely is.
+Use the GitHub URL for the primary deposited dataset and ML code.
+If an optional Zenodo archive is created, cite only a DOI formally issued
+by Zenodo after the authors have checked licensing and citation metadata.

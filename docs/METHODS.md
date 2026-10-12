@@ -24,4 +24,4 @@ SMOTE-NC is a training-only sensitivity experiment; primary fitting uses unresam
 
 ## Scope of the package
 
-The scripts in this repository address the machine-learning component only. They do not reproduce water-quality indices (CF, PLI, WQI), PCA, Mann–Kendall trends, or corrections to original laboratory records. Reproducibility of the entire manuscript requires separate verified implementations and authorization to release the underlying data.
+The scripts in this repository address the machine-learning component only. They do not reproduce water-quality indices (CF, PLI, WQI), PCA, Mann–Kendall trends, or corrections to original laboratory records. Reproducibility of the entire manuscript requires separate verified implementations and appropriately documented underlying data provenance and reuse terms.

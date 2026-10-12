@@ -1,9 +1,16 @@
-# Citation and deposit metadata
+# Dataset and code citation metadata
 
-Before any public release, insert the co-authors' agreed citation order, full names, ORCIDs, affiliations, version, release date, chosen software/data licenses and Zenodo DOI. These details are intentionally not guessed or auto-populated.
+The repository supports citation of the archived data and software even
+without a DOI. Insert the co-authors' approved creator names, citation order,
+ORCIDs, affiliations, software version, public release date, and code/data
+license terms before formal publication.
 
-Suggested future citation:
+Suggested GitHub citation format:
 
-[Creators]. (2026). Temporal machine-learning reanalysis of E. coli detection in municipal tap and tube-well water, Peshawar, Pakistan (2009–2024) [software and dataset, version X]. Zenodo. https://doi.org/[assigned DOI]
+[Agreed creators]. (2026). *Peshawar water-quality machine-learning
+reanalysis (2009–2024): analysis-ready dataset, code and numerical results*
+[dataset and software, version/release tag]. GitHub.
+https://github.com/nasreenanjum59/peshawar-water-quality-ml
 
-The DOI above is a placeholder, not a registered identifier.
+If a Zenodo archive is published later, add the actual assigned DOI.
+Do not include a DOI placeholder in the manuscript.
