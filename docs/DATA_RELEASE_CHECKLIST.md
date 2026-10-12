@@ -11,6 +11,8 @@ Complete all items before any public deposit or GitHub visibility change.
 - [ ] Resolve reviewer-requested learning curves and any direct WQI-rule baseline if included in the final paper.
 - [ ] Confirm software/data licenses, creator names, ORCIDs, affiliations, acknowledgements and repository metadata.
 - [ ] Check journal requirements for double-anonymised review and whether public repository authorship could affect anonymous review.
-- [ ] Create the final Zenodo dataset deposit and link its actual DOI only after appropriate review.
+- [ ] Decide whether a public GitHub repository alone is sufficient for the final Data Availability Statement. A Zenodo deposit and DOI are optional; if chosen, cite the DOI only after assignment.
 
-The separate Zenodo ZIP is a review package, not authorization to publish data. GitHub code publication and underlying dataset release are separate decisions.
+**Private deposit completed:** The original analysis-ready Excel workbook is now stored at `data/WQ_Peshawar_2009-2024_analysis_ready.xlsx` in this private GitHub repository. Its SHA-256 matches `results/01_input_sha256.txt`. This is NOT permission to make the data public.
+
+The separate Zenodo ZIP remains a local review package, not authorization to publish data. Repository visibility, code licensing and underlying dataset release require explicit approval.
