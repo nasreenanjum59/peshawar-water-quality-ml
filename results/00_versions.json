@@ -1,0 +1,11 @@
+{
+  "Python": "3.9.13",
+  "pandas": "2.2.3",
+  "numpy": "2.0.2",
+  "scikit-learn": "1.6.1",
+  "xgboost": "2.1.4",
+  "seed": 42,
+  "bootstrap_resamples": 2000,
+  "label_permutations": 200,
+  "quick_nonpublication": false
+}
