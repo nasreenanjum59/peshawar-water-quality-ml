@@ -17,9 +17,8 @@ and tube-well observations (n = 1,200), of which 849 are positive for measured
 ## Dataset provenance and reuse
 
 The workbook retains collection dates, sampling locations and laboratory
-register identifiers to enable traceability. Anyone redistributing the dataset
-should ensure that the institutional data owner has authorised these metadata
-and the distribution terms. Cite the study and this dataset as appropriate.
+register identifiers to support traceability. Please cite the associated
+study and repository when using these data.
 
 Nitrate concentrations were subsequently confirmed to be expressed as
 mg/L NO3 ion, not NO3-N. The ammonium reporting basis and legacy total-nitrogen

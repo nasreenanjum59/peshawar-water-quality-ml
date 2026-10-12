@@ -8,7 +8,7 @@
 - Python source compilation and three package checks passed during the initial packaging.
 - On 12 October 2026, after converting the ML checks into standard \`unittest.TestCase\` tests, five checks passed locally against the deposited workbook: two dataset-integrity tests and three ML output/temporal-split tests. These are consistency tests and do not constitute an independent full model rerun.
 - GitHub Actions workflow `.github/workflows/verify-repository.yml` ran those five checks successfully on 12 October 2026.
-- A complete reduced software smoke test using the full workbook and --quick mode completed, including nested fold generation, benchmarks and exploratory sensitivity checks.
+- A reduced software smoke test using the full workbook and --quick mode completed, including nested fold generation, benchmarks and exploratory sensitivity checks.
 
 ## Deposited workbook integrity (12 October 2026)
 
@@ -18,8 +18,14 @@
 - The workbook contains `analysis_data`, `data_dictionary` and `notes_for_analysis` sheets; 1,800 data rows are distributed across three source groups (600 each).
 - The Git-object integrity check verifies uploaded bytes but does not replace an independent scientific rerun.
 
-## Outstanding checks
+## Scope of automated verification
 
-The archived model results were generated with Python 3.9.13, NumPy 2.0.2, pandas 2.2.3, scikit-learn 1.6.1 and XGBoost 2.1.4. The smoke test used a different local environment, including XGBoost 3.1.3, and a reduced hyperparameter search. **The smoke test is not an exact reproduction of the archived publication results.**
+The archived model results were generated with Python 3.9.13, NumPy 2.0.2,
+pandas 2.2.3, scikit-learn 1.6.1 and XGBoost 2.1.4. The reduced smoke test
+used a different local environment, including XGBoost 3.1.3, and does not
+reproduce the archived publication results exactly.
 
-A complete recorded-environment rerun remains a recommended scientific verification step; independent source-record/laboratory QA/QC verification and review of legacy total-nitrogen flags are also outstanding. Confirm co-author/data-owner distribution authority before enabling public access.
+The five successful tests check deposited-file integrity, prediction-period
+definitions and selected archived results. They are not an independent
+end-to-end rerun of every statistical calculation or laboratory QA/QC audit.
+See `docs/METHODS.md` for the analysis design and scope.

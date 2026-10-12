@@ -32,11 +32,9 @@ They are **not** an untouched independent external validation set.
 - `tests/`: checks for temporal folds, decision thresholds and headline
   metrics in the archived outputs.
 - `docs/METHODS.md`: model definitions, analysis choices and known limitations.
-- `docs/DATA_RELEASE_CHECKLIST.md`: provenance, licensing and journal checks
-  that must be resolved before publication.
-- `docs/RELEASE_READINESS.md`: verified contents, public-release approval gates,
-  double-anonymised review considerations and publication steps.
-- `docs/UPLOAD_GUIDE.md`: instructions for GitHub and Zenodo deposits.
+- `docs/UPLOAD_GUIDE.md`: straightforward instructions for obtaining the
+  dataset, running the code and interpreting the analysis outputs.
+- `docs/VALIDATION_REPORT.md`: recorded data-integrity and software-test results.
 - `data/WQ_Peshawar_2009-2024_analysis_ready.xlsx`: analysis-ready workbook with
   1,800 observations, a data dictionary and analysis notes. This dataset includes
   collection dates, sampling-site names and laboratory register references.
@@ -120,7 +118,8 @@ CF/PLI/WQI, PCA and temporal-trend calculations are outside the present code pac
 The five integrity and archived-output tests passed in GitHub Actions. These checks
 do not substitute for an exact end-to-end rerun of the publication environment.
 
-For reuse, verify source-data permissions and attribution, agree on licenses for
-software and data, and confirm that the repository is publicly accessible.
-See `docs/RELEASE_READINESS.md`. Optional Zenodo archiving has not been assigned
-a DOI.
+For a reproducible starting point, use the archived input workbook, follow
+the commands above, and consult `docs/METHODS.md` for model design and
+interpretation. The repository contains the ML analysis and its source data;
+the broader study's CF/PLI/WQI, PCA and trend calculations are not part of
+this Python package.

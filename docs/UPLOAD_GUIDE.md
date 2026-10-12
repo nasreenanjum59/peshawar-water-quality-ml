@@ -1,50 +1,58 @@
-# GitHub dataset and Python code release
+# Using the water-quality dataset and Python code
 
-## Repository
+Repository: https://github.com/nasreenanjum59/peshawar-water-quality-ml
 
-https://github.com/nasreenanjum59/peshawar-water-quality-ml
+## Included materials
 
-The GitHub repository contains the 2009–2024 analysis-ready water-quality
-workbook (1,800 observations and data dictionary), the Python machine-learning
-pipeline, temporal validation outputs, model comparisons, diagnostic figures,
-reproducibility instructions and integrity tests.
+- `data/WQ_Peshawar_2009-2024_analysis_ready.xlsx`: 1,800 water-quality
+  observations from 2009–2024, a data dictionary and analysis notes.
+- `src/peshawar_ml.py`: Python machine-learning pipeline for predicting
+  measured *E. coli* detection in municipal tap and tube-well observations
+  (n = 1,200).
+- `src/plot_archived_ml_figures.py`: figure generation from archived outputs.
+- `results/`: nested rolling-origin model predictions, evaluation metrics,
+  quality-control sensitivity results and diagnostic figures.
+- `tests/`: data integrity and archived-output consistency checks.
+- `docs/METHODS.md` and `docs/VALIDATION_REPORT.md`: methods and tests.
 
-The ML analysis uses municipal tap-water and tube-well samples (n = 1,200)
-to predict laboratory-measured `E. coli` detection. River-water samples are
-provided for the wider study but are not included in the ML models.
+## Download and run
 
-## Confirm public accessibility
+Choose **Code → Download ZIP** on GitHub, or clone the repository:
 
-1. Verify data-owner and co-author permission to distribute the workbook,
-   including its exact dates, site names and laboratory register references.
-2. Verify final results, data metadata, author information, licenses and
-   relevant journal double-anonymised review requirements.
-3. In GitHub, open **Settings → General → Danger Zone → Change repository
-   visibility**, choose **Public** and confirm. Access to Settings requires
-   repository administration permission.
-4. Open the repository from a signed-out browser to check that the dataset,
-   Python files, documentation and results are accessible.
-5. Check **Actions → Verify deposited ML package** for the five automated
-   integrity and results checks. This verification is not a substitute for an
-   independent end-to-end model rerun.
-6. Add the verified repository URL to the final manuscript Data Availability
-   Statement, clearly limiting the code deposit's scope to the ML component.
+```bash
+git clone https://github.com/nasreenanjum59/peshawar-water-quality-ml.git
+cd peshawar-water-quality-ml
+python -m venv .venv
+# Activate the virtual environment for your operating system
+python -m pip install -r requirements-recorded.txt
+```
 
-**Important:** GitHub public visibility also exposes reachable Git history.
-Inspect past commits and uploaded metadata before changing visibility.
+Run the five integrity and archived-output consistency tests:
 
-## Optional Zenodo DOI
+```bash
+python -m unittest discover -s tests -p 'test_*.py' -v
+```
 
-A Zenodo deposit is optional, not a requirement for GitHub access. If an
-archival DOI is desired, create a Zenodo record using verified creators,
-ORCIDs, affiliations, licenses and version details, then cite the DOI actually
-issued. Do not cite a placeholder DOI.
+Run the primary analysis workflow:
 
-Official resources:
-- https://help.zenodo.org/docs/deposit/create-new-upload/
-- https://help.zenodo.org/docs/github/enable-repository/
-- https://help.zenodo.org/docs/github/archive-software/github-upload/
+```bash
+python src/peshawar_ml.py \
+  --data data/WQ_Peshawar_2009-2024_analysis_ready.xlsx \
+  --out runs/full --with-smote --with-shap --permutations 200
+```
 
-The current GitHub code reproduces the machine-learning workflow only.
-Physicochemical indices (CF, PLI, WQI), PCA and temporal trend analyses
-require their own verified supporting code or documentation.
+The archived results were produced with the package versions described in
+`results/00_versions.json`. The full analysis can take significant time.
+The optional `--quick` mode checks software operation but must not be used
+as a substitute for the publication results.
+
+## Interpretation and citation
+
+The ML component predicts *E. coli* detection using nested temporal
+validation (2016–2023, n = 584), with 2024 (n = 76) assessed separately.
+The 2024 evaluation was previously inspected and is not an untouched
+independent external test. The code does not calculate the broader study's
+CF/PLI/WQI, PCA or Mann–Kendall trend statistics.
+
+Please cite the associated water-quality study and this repository when
+reusing the dataset or software. No Zenodo DOI has been assigned.

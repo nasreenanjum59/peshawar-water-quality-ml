@@ -1,16 +1,15 @@
-# Dataset and code citation metadata
+# Citing this dataset and code
 
-The repository supports citation of the archived data and software even
-without a DOI. Insert the co-authors' approved creator names, citation order,
-ORCIDs, affiliations, software version, public release date, and code/data
-license terms before formal publication.
+Please cite the corresponding article and the GitHub repository when using
+the analysis-ready water-quality data, Python workflow or archived outputs:
 
-Suggested GitHub citation format:
+**Repository:** https://github.com/nasreenanjum59/peshawar-water-quality-ml
 
-[Agreed creators]. (2026). *Peshawar water-quality machine-learning
-reanalysis (2009–2024): analysis-ready dataset, code and numerical results*
-[dataset and software, version/release tag]. GitHub.
-https://github.com/nasreenanjum59/peshawar-water-quality-ml
+**Project:** Peshawar water-quality machine-learning reanalysis (2009–2024):
+analysis-ready dataset, source code and numerical results.
 
-If a Zenodo archive is published later, add the actual assigned DOI.
-Do not include a DOI placeholder in the manuscript.
+**Related manuscript:** *Environmental Science: Water Research & Technology*,
+EW-ART-05-2026-000506.
+
+Use the authors and bibliographic details from the published article when
+available. A Zenodo DOI has not been assigned.
