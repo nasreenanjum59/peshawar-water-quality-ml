@@ -1,0 +1,7 @@
+{
+  "observed_AUC": 0.7038556193601312,
+  "null_AUC_mean": 0.5072313371616078,
+  "null_AUC_95th_percentile": 0.6253486464315011,
+  "one_sided_empirical_p": 0.009950248756218905,
+  "warning": "Global label shuffle tests no label-feature association. It does NOT test incremental benefit over source and season."
+}
