@@ -1,0 +1,1825 @@
+scenario,model,sample_id,year,y,probability
+primary_no_nitrate_or_TN,Logistic regression,S0867,2024,1,0.9331941387
+primary_no_nitrate_or_TN,Logistic regression,S0868,2024,1,0.8826090952
+primary_no_nitrate_or_TN,Logistic regression,S0869,2024,1,0.8616819338
+primary_no_nitrate_or_TN,Logistic regression,S0870,2024,1,0.8617930501
+primary_no_nitrate_or_TN,Logistic regression,S0871,2024,0,0.9244580378
+primary_no_nitrate_or_TN,Logistic regression,S0872,2024,1,0.839177585
+primary_no_nitrate_or_TN,Logistic regression,S0873,2024,1,0.8998830152
+primary_no_nitrate_or_TN,Logistic regression,S0874,2024,1,0.8948233759
+primary_no_nitrate_or_TN,Logistic regression,S0875,2024,1,0.8984522156
+primary_no_nitrate_or_TN,Logistic regression,S0876,2024,1,0.8472289854
+primary_no_nitrate_or_TN,Logistic regression,S0877,2024,0,0.7887939226
+primary_no_nitrate_or_TN,Logistic regression,S0878,2024,1,0.9122877215
+primary_no_nitrate_or_TN,Logistic regression,S0879,2024,1,0.9414457201
+primary_no_nitrate_or_TN,Logistic regression,S0880,2024,1,0.8439601371
+primary_no_nitrate_or_TN,Logistic regression,S0881,2024,1,0.904405396
+primary_no_nitrate_or_TN,Logistic regression,S0882,2024,1,0.8180210863
+primary_no_nitrate_or_TN,Logistic regression,S0883,2024,1,0.9451108557
+primary_no_nitrate_or_TN,Logistic regression,S0884,2024,0,0.7952255627
+primary_no_nitrate_or_TN,Logistic regression,S0885,2024,1,0.8112352118
+primary_no_nitrate_or_TN,Logistic regression,S1162,2024,1,0.9501921049
+primary_no_nitrate_or_TN,Logistic regression,S1163,2024,1,0.8332677418
+primary_no_nitrate_or_TN,Logistic regression,S1164,2024,1,0.6839054733
+primary_no_nitrate_or_TN,Logistic regression,S1165,2024,1,0.8286392905
+primary_no_nitrate_or_TN,Logistic regression,S1166,2024,1,0.8402178883
+primary_no_nitrate_or_TN,Logistic regression,S1167,2024,1,0.7805777627
+primary_no_nitrate_or_TN,Logistic regression,S1168,2024,1,0.8202029309
+primary_no_nitrate_or_TN,Logistic regression,S1169,2024,1,0.8300652859
+primary_no_nitrate_or_TN,Logistic regression,S1170,2024,1,0.8571338059
+primary_no_nitrate_or_TN,Logistic regression,S1171,2024,1,0.7440970649
+primary_no_nitrate_or_TN,Logistic regression,S1172,2024,1,0.7604572268
+primary_no_nitrate_or_TN,Logistic regression,S1173,2024,0,0.8738789675
+primary_no_nitrate_or_TN,Logistic regression,S1174,2024,1,0.9087930571
+primary_no_nitrate_or_TN,Logistic regression,S1175,2024,0,0.7367604066
+primary_no_nitrate_or_TN,Logistic regression,S1176,2024,1,0.866399517
+primary_no_nitrate_or_TN,Logistic regression,S1177,2024,1,0.7439838538
+primary_no_nitrate_or_TN,Logistic regression,S1178,2024,1,0.9165617645
+primary_no_nitrate_or_TN,Logistic regression,S1179,2024,1,0.7959097665
+primary_no_nitrate_or_TN,Logistic regression,S1180,2024,0,0.6504362633
+primary_no_nitrate_or_TN,Logistic regression,S1457,2024,1,0.6987143594
+primary_no_nitrate_or_TN,Logistic regression,S1458,2024,0,0.8093431628
+primary_no_nitrate_or_TN,Logistic regression,S1459,2024,1,0.4865601253
+primary_no_nitrate_or_TN,Logistic regression,S1460,2024,0,0.6707341891
+primary_no_nitrate_or_TN,Logistic regression,S1461,2024,1,0.642955623
+primary_no_nitrate_or_TN,Logistic regression,S1462,2024,1,0.4827483485
+primary_no_nitrate_or_TN,Logistic regression,S1463,2024,1,0.5136204092
+primary_no_nitrate_or_TN,Logistic regression,S1464,2024,0,0.7165045939
+primary_no_nitrate_or_TN,Logistic regression,S1465,2024,1,0.8832596484
+primary_no_nitrate_or_TN,Logistic regression,S1466,2024,0,0.5059482633
+primary_no_nitrate_or_TN,Logistic regression,S1467,2024,0,0.5072081758
+primary_no_nitrate_or_TN,Logistic regression,S1468,2024,0,0.7131341256
+primary_no_nitrate_or_TN,Logistic regression,S1469,2024,0,0.611550718
+primary_no_nitrate_or_TN,Logistic regression,S1470,2024,0,0.498914896
+primary_no_nitrate_or_TN,Logistic regression,S1471,2024,0,0.6813696623
+primary_no_nitrate_or_TN,Logistic regression,S1472,2024,1,0.5282413651
+primary_no_nitrate_or_TN,Logistic regression,S1473,2024,0,0.7368598381
+primary_no_nitrate_or_TN,Logistic regression,S1474,2024,1,0.4645236101
+primary_no_nitrate_or_TN,Logistic regression,S1475,2024,1,0.3866934579
+primary_no_nitrate_or_TN,Logistic regression,S1752,2024,0,0.755964035
+primary_no_nitrate_or_TN,Logistic regression,S1753,2024,1,0.7991511521
+primary_no_nitrate_or_TN,Logistic regression,S1754,2024,1,0.4388584235
+primary_no_nitrate_or_TN,Logistic regression,S1755,2024,0,0.7514110072
+primary_no_nitrate_or_TN,Logistic regression,S1756,2024,1,0.7055007781
+primary_no_nitrate_or_TN,Logistic regression,S1757,2024,0,0.5540696213
+primary_no_nitrate_or_TN,Logistic regression,S1758,2024,0,0.5216971445
+primary_no_nitrate_or_TN,Logistic regression,S1759,2024,1,0.6178406025
+primary_no_nitrate_or_TN,Logistic regression,S1760,2024,1,0.6775381497
+primary_no_nitrate_or_TN,Logistic regression,S1761,2024,1,0.5709275637
+primary_no_nitrate_or_TN,Logistic regression,S1762,2024,1,0.5426917677
+primary_no_nitrate_or_TN,Logistic regression,S1763,2024,1,0.7614080752
+primary_no_nitrate_or_TN,Logistic regression,S1764,2024,0,0.6576630752
+primary_no_nitrate_or_TN,Logistic regression,S1765,2024,0,0.4182565723
+primary_no_nitrate_or_TN,Logistic regression,S1766,2024,1,0.7927869995
+primary_no_nitrate_or_TN,Logistic regression,S1767,2024,1,0.5325418989
+primary_no_nitrate_or_TN,Logistic regression,S1768,2024,1,0.7474824766
+primary_no_nitrate_or_TN,Logistic regression,S1769,2024,1,0.4980240719
+primary_no_nitrate_or_TN,Logistic regression,S1770,2024,0,0.4723893191
+primary_no_nitrate_or_TN,Random forest,S0867,2024,1,0.7992011309
+primary_no_nitrate_or_TN,Random forest,S0868,2024,1,0.8550113953
+primary_no_nitrate_or_TN,Random forest,S0869,2024,1,0.8593534946
+primary_no_nitrate_or_TN,Random forest,S0870,2024,1,0.7802008036
+primary_no_nitrate_or_TN,Random forest,S0871,2024,0,0.9227430758
+primary_no_nitrate_or_TN,Random forest,S0872,2024,1,0.7879338347
+primary_no_nitrate_or_TN,Random forest,S0873,2024,1,0.83805762
+primary_no_nitrate_or_TN,Random forest,S0874,2024,1,0.8246522404
+primary_no_nitrate_or_TN,Random forest,S0875,2024,1,0.8457989474
+primary_no_nitrate_or_TN,Random forest,S0876,2024,1,0.8592766963
+primary_no_nitrate_or_TN,Random forest,S0877,2024,0,0.7965063135
+primary_no_nitrate_or_TN,Random forest,S0878,2024,1,0.8317100117
+primary_no_nitrate_or_TN,Random forest,S0879,2024,1,0.9071591923
+primary_no_nitrate_or_TN,Random forest,S0880,2024,1,0.8997216654
+primary_no_nitrate_or_TN,Random forest,S0881,2024,1,0.8763677906
+primary_no_nitrate_or_TN,Random forest,S0882,2024,1,0.8525293687
+primary_no_nitrate_or_TN,Random forest,S0883,2024,1,0.8544965275
+primary_no_nitrate_or_TN,Random forest,S0884,2024,0,0.8433939101
+primary_no_nitrate_or_TN,Random forest,S0885,2024,1,0.8843910788
+primary_no_nitrate_or_TN,Random forest,S1162,2024,1,0.8312004766
+primary_no_nitrate_or_TN,Random forest,S1163,2024,1,0.8530063272
+primary_no_nitrate_or_TN,Random forest,S1164,2024,1,0.8086803048
+primary_no_nitrate_or_TN,Random forest,S1165,2024,1,0.7744238472
+primary_no_nitrate_or_TN,Random forest,S1166,2024,1,0.7586408335
+primary_no_nitrate_or_TN,Random forest,S1167,2024,1,0.7029716924
+primary_no_nitrate_or_TN,Random forest,S1168,2024,1,0.7609958399
+primary_no_nitrate_or_TN,Random forest,S1169,2024,1,0.7975854181
+primary_no_nitrate_or_TN,Random forest,S1170,2024,1,0.8711447144
+primary_no_nitrate_or_TN,Random forest,S1171,2024,1,0.7137414341
+primary_no_nitrate_or_TN,Random forest,S1172,2024,1,0.7325649416
+primary_no_nitrate_or_TN,Random forest,S1173,2024,0,0.8240740918
+primary_no_nitrate_or_TN,Random forest,S1174,2024,1,0.7923210302
+primary_no_nitrate_or_TN,Random forest,S1175,2024,0,0.7426302941
+primary_no_nitrate_or_TN,Random forest,S1176,2024,1,0.7343324888
+primary_no_nitrate_or_TN,Random forest,S1177,2024,1,0.8200976799
+primary_no_nitrate_or_TN,Random forest,S1178,2024,1,0.8159035136
+primary_no_nitrate_or_TN,Random forest,S1179,2024,1,0.7842546165
+primary_no_nitrate_or_TN,Random forest,S1180,2024,0,0.7785074281
+primary_no_nitrate_or_TN,Random forest,S1457,2024,1,0.5971291134
+primary_no_nitrate_or_TN,Random forest,S1458,2024,0,0.6800866035
+primary_no_nitrate_or_TN,Random forest,S1459,2024,1,0.5989964123
+primary_no_nitrate_or_TN,Random forest,S1460,2024,0,0.6407877364
+primary_no_nitrate_or_TN,Random forest,S1461,2024,1,0.5763854529
+primary_no_nitrate_or_TN,Random forest,S1462,2024,1,0.6402710649
+primary_no_nitrate_or_TN,Random forest,S1463,2024,1,0.6462310359
+primary_no_nitrate_or_TN,Random forest,S1464,2024,0,0.5848870256
+primary_no_nitrate_or_TN,Random forest,S1465,2024,1,0.7148091103
+primary_no_nitrate_or_TN,Random forest,S1466,2024,0,0.643325181
+primary_no_nitrate_or_TN,Random forest,S1467,2024,0,0.5133083651
+primary_no_nitrate_or_TN,Random forest,S1468,2024,0,0.7090673028
+primary_no_nitrate_or_TN,Random forest,S1469,2024,0,0.5156654792
+primary_no_nitrate_or_TN,Random forest,S1470,2024,0,0.5243633234
+primary_no_nitrate_or_TN,Random forest,S1471,2024,0,0.5992107864
+primary_no_nitrate_or_TN,Random forest,S1472,2024,1,0.5296454064
+primary_no_nitrate_or_TN,Random forest,S1473,2024,0,0.6349157332
+primary_no_nitrate_or_TN,Random forest,S1474,2024,1,0.5652468876
+primary_no_nitrate_or_TN,Random forest,S1475,2024,1,0.5680555231
+primary_no_nitrate_or_TN,Random forest,S1752,2024,0,0.6794139651
+primary_no_nitrate_or_TN,Random forest,S1753,2024,1,0.7708641444
+primary_no_nitrate_or_TN,Random forest,S1754,2024,1,0.6018518782
+primary_no_nitrate_or_TN,Random forest,S1755,2024,0,0.6820451616
+primary_no_nitrate_or_TN,Random forest,S1756,2024,1,0.6471804917
+primary_no_nitrate_or_TN,Random forest,S1757,2024,0,0.6856485386
+primary_no_nitrate_or_TN,Random forest,S1758,2024,0,0.4640016273
+primary_no_nitrate_or_TN,Random forest,S1759,2024,1,0.5537857322
+primary_no_nitrate_or_TN,Random forest,S1760,2024,1,0.5407886232
+primary_no_nitrate_or_TN,Random forest,S1761,2024,1,0.5800154618
+primary_no_nitrate_or_TN,Random forest,S1762,2024,1,0.6074246956
+primary_no_nitrate_or_TN,Random forest,S1763,2024,1,0.6286798298
+primary_no_nitrate_or_TN,Random forest,S1764,2024,0,0.5551059655
+primary_no_nitrate_or_TN,Random forest,S1765,2024,0,0.631017155
+primary_no_nitrate_or_TN,Random forest,S1766,2024,1,0.8380203134
+primary_no_nitrate_or_TN,Random forest,S1767,2024,1,0.6077275731
+primary_no_nitrate_or_TN,Random forest,S1768,2024,1,0.651898745
+primary_no_nitrate_or_TN,Random forest,S1769,2024,1,0.715664289
+primary_no_nitrate_or_TN,Random forest,S1770,2024,0,0.5117451566
+primary_no_nitrate_or_TN,XGBoost,S0867,2024,1,0.8535660505
+primary_no_nitrate_or_TN,XGBoost,S0868,2024,1,0.8939956427
+primary_no_nitrate_or_TN,XGBoost,S0869,2024,1,0.8907920122
+primary_no_nitrate_or_TN,XGBoost,S0870,2024,1,0.7746231556
+primary_no_nitrate_or_TN,XGBoost,S0871,2024,0,0.9433369637
+primary_no_nitrate_or_TN,XGBoost,S0872,2024,1,0.8020684123
+primary_no_nitrate_or_TN,XGBoost,S0873,2024,1,0.821105063
+primary_no_nitrate_or_TN,XGBoost,S0874,2024,1,0.8681286573
+primary_no_nitrate_or_TN,XGBoost,S0875,2024,1,0.901853919
+primary_no_nitrate_or_TN,XGBoost,S0876,2024,1,0.8737695813
+primary_no_nitrate_or_TN,XGBoost,S0877,2024,0,0.8382174969
+primary_no_nitrate_or_TN,XGBoost,S0878,2024,1,0.8958134055
+primary_no_nitrate_or_TN,XGBoost,S0879,2024,1,0.9258999228
+primary_no_nitrate_or_TN,XGBoost,S0880,2024,1,0.8811838627
+primary_no_nitrate_or_TN,XGBoost,S0881,2024,1,0.9099629521
+primary_no_nitrate_or_TN,XGBoost,S0882,2024,1,0.7936915159
+primary_no_nitrate_or_TN,XGBoost,S0883,2024,1,0.8727044463
+primary_no_nitrate_or_TN,XGBoost,S0884,2024,0,0.8400999308
+primary_no_nitrate_or_TN,XGBoost,S0885,2024,1,0.8675652146
+primary_no_nitrate_or_TN,XGBoost,S1162,2024,1,0.9170922637
+primary_no_nitrate_or_TN,XGBoost,S1163,2024,1,0.8338488936
+primary_no_nitrate_or_TN,XGBoost,S1164,2024,1,0.806045711
+primary_no_nitrate_or_TN,XGBoost,S1165,2024,1,0.8497850299
+primary_no_nitrate_or_TN,XGBoost,S1166,2024,1,0.8122571707
+primary_no_nitrate_or_TN,XGBoost,S1167,2024,1,0.7075782418
+primary_no_nitrate_or_TN,XGBoost,S1168,2024,1,0.7556222081
+primary_no_nitrate_or_TN,XGBoost,S1169,2024,1,0.7815884948
+primary_no_nitrate_or_TN,XGBoost,S1170,2024,1,0.9012189507
+primary_no_nitrate_or_TN,XGBoost,S1171,2024,1,0.686475575
+primary_no_nitrate_or_TN,XGBoost,S1172,2024,1,0.7689539194
+primary_no_nitrate_or_TN,XGBoost,S1173,2024,0,0.8224710822
+primary_no_nitrate_or_TN,XGBoost,S1174,2024,1,0.8190430403
+primary_no_nitrate_or_TN,XGBoost,S1175,2024,0,0.7177678943
+primary_no_nitrate_or_TN,XGBoost,S1176,2024,1,0.8010730743
+primary_no_nitrate_or_TN,XGBoost,S1177,2024,1,0.7998285294
+primary_no_nitrate_or_TN,XGBoost,S1178,2024,1,0.8648667336
+primary_no_nitrate_or_TN,XGBoost,S1179,2024,1,0.7770684958
+primary_no_nitrate_or_TN,XGBoost,S1180,2024,0,0.7030131817
+primary_no_nitrate_or_TN,XGBoost,S1457,2024,1,0.6099055409
+primary_no_nitrate_or_TN,XGBoost,S1458,2024,0,0.7191534638
+primary_no_nitrate_or_TN,XGBoost,S1459,2024,1,0.5029190183
+primary_no_nitrate_or_TN,XGBoost,S1460,2024,0,0.592296958
+primary_no_nitrate_or_TN,XGBoost,S1461,2024,1,0.600987792
+primary_no_nitrate_or_TN,XGBoost,S1462,2024,1,0.5990347266
+primary_no_nitrate_or_TN,XGBoost,S1463,2024,1,0.5627570748
+primary_no_nitrate_or_TN,XGBoost,S1464,2024,0,0.7052327394
+primary_no_nitrate_or_TN,XGBoost,S1465,2024,1,0.8021529317
+primary_no_nitrate_or_TN,XGBoost,S1466,2024,0,0.6036431789
+primary_no_nitrate_or_TN,XGBoost,S1467,2024,0,0.4734700024
+primary_no_nitrate_or_TN,XGBoost,S1468,2024,0,0.7762297988
+primary_no_nitrate_or_TN,XGBoost,S1469,2024,0,0.5521060228
+primary_no_nitrate_or_TN,XGBoost,S1470,2024,0,0.4483371973
+primary_no_nitrate_or_TN,XGBoost,S1471,2024,0,0.6225098372
+primary_no_nitrate_or_TN,XGBoost,S1472,2024,1,0.4801548123
+primary_no_nitrate_or_TN,XGBoost,S1473,2024,0,0.7446240187
+primary_no_nitrate_or_TN,XGBoost,S1474,2024,1,0.5481258631
+primary_no_nitrate_or_TN,XGBoost,S1475,2024,1,0.5680555701
+primary_no_nitrate_or_TN,XGBoost,S1752,2024,0,0.7414836884
+primary_no_nitrate_or_TN,XGBoost,S1753,2024,1,0.8460565805
+primary_no_nitrate_or_TN,XGBoost,S1754,2024,1,0.5939349532
+primary_no_nitrate_or_TN,XGBoost,S1755,2024,0,0.6816586852
+primary_no_nitrate_or_TN,XGBoost,S1756,2024,1,0.7057266831
+primary_no_nitrate_or_TN,XGBoost,S1757,2024,0,0.5932409763
+primary_no_nitrate_or_TN,XGBoost,S1758,2024,0,0.4215611517
+primary_no_nitrate_or_TN,XGBoost,S1759,2024,1,0.6002500653
+primary_no_nitrate_or_TN,XGBoost,S1760,2024,1,0.6364647746
+primary_no_nitrate_or_TN,XGBoost,S1761,2024,1,0.5745853186
+primary_no_nitrate_or_TN,XGBoost,S1762,2024,1,0.5756807327
+primary_no_nitrate_or_TN,XGBoost,S1763,2024,1,0.7407631874
+primary_no_nitrate_or_TN,XGBoost,S1764,2024,0,0.5621083975
+primary_no_nitrate_or_TN,XGBoost,S1765,2024,0,0.4932014942
+primary_no_nitrate_or_TN,XGBoost,S1766,2024,1,0.892800808
+primary_no_nitrate_or_TN,XGBoost,S1767,2024,1,0.5652547479
+primary_no_nitrate_or_TN,XGBoost,S1768,2024,1,0.582991302
+primary_no_nitrate_or_TN,XGBoost,S1769,2024,1,0.6055690646
+primary_no_nitrate_or_TN,XGBoost,S1770,2024,0,0.4337483943
+primary_no_nitrate_or_TN,SVM (RBF),S0867,2024,1,0.7653683024
+primary_no_nitrate_or_TN,SVM (RBF),S0868,2024,1,0.8065417968
+primary_no_nitrate_or_TN,SVM (RBF),S0869,2024,1,0.7738045535
+primary_no_nitrate_or_TN,SVM (RBF),S0870,2024,1,0.7734982469
+primary_no_nitrate_or_TN,SVM (RBF),S0871,2024,0,0.7938683104
+primary_no_nitrate_or_TN,SVM (RBF),S0872,2024,1,0.7906832362
+primary_no_nitrate_or_TN,SVM (RBF),S0873,2024,1,0.7584486314
+primary_no_nitrate_or_TN,SVM (RBF),S0874,2024,1,0.7368018861
+primary_no_nitrate_or_TN,SVM (RBF),S0875,2024,1,0.7696579102
+primary_no_nitrate_or_TN,SVM (RBF),S0876,2024,1,0.7752352356
+primary_no_nitrate_or_TN,SVM (RBF),S0877,2024,0,0.7410170401
+primary_no_nitrate_or_TN,SVM (RBF),S0878,2024,1,0.7661732696
+primary_no_nitrate_or_TN,SVM (RBF),S0879,2024,1,0.7760967248
+primary_no_nitrate_or_TN,SVM (RBF),S0880,2024,1,0.7646223107
+primary_no_nitrate_or_TN,SVM (RBF),S0881,2024,1,0.7715032135
+primary_no_nitrate_or_TN,SVM (RBF),S0882,2024,1,0.7864083578
+primary_no_nitrate_or_TN,SVM (RBF),S0883,2024,1,0.7534400106
+primary_no_nitrate_or_TN,SVM (RBF),S0884,2024,0,0.7523202679
+primary_no_nitrate_or_TN,SVM (RBF),S0885,2024,1,0.7761516061
+primary_no_nitrate_or_TN,SVM (RBF),S1162,2024,1,0.7356501846
+primary_no_nitrate_or_TN,SVM (RBF),S1163,2024,1,0.7977785391
+primary_no_nitrate_or_TN,SVM (RBF),S1164,2024,1,0.7771903294
+primary_no_nitrate_or_TN,SVM (RBF),S1165,2024,1,0.8071813091
+primary_no_nitrate_or_TN,SVM (RBF),S1166,2024,1,0.7324933268
+primary_no_nitrate_or_TN,SVM (RBF),S1167,2024,1,0.7231061299
+primary_no_nitrate_or_TN,SVM (RBF),S1168,2024,1,0.7795200435
+primary_no_nitrate_or_TN,SVM (RBF),S1169,2024,1,0.80659309
+primary_no_nitrate_or_TN,SVM (RBF),S1170,2024,1,0.8050454157
+primary_no_nitrate_or_TN,SVM (RBF),S1171,2024,1,0.7600456263
+primary_no_nitrate_or_TN,SVM (RBF),S1172,2024,1,0.6448890456
+primary_no_nitrate_or_TN,SVM (RBF),S1173,2024,0,0.7913776883
+primary_no_nitrate_or_TN,SVM (RBF),S1174,2024,1,0.765762199
+primary_no_nitrate_or_TN,SVM (RBF),S1175,2024,0,0.7497290199
+primary_no_nitrate_or_TN,SVM (RBF),S1176,2024,1,0.7463809883
+primary_no_nitrate_or_TN,SVM (RBF),S1177,2024,1,0.7054206504
+primary_no_nitrate_or_TN,SVM (RBF),S1178,2024,1,0.8007787218
+primary_no_nitrate_or_TN,SVM (RBF),S1179,2024,1,0.7600839931
+primary_no_nitrate_or_TN,SVM (RBF),S1180,2024,0,0.8105791291
+primary_no_nitrate_or_TN,SVM (RBF),S1457,2024,1,0.7533821339
+primary_no_nitrate_or_TN,SVM (RBF),S1458,2024,0,0.7924891222
+primary_no_nitrate_or_TN,SVM (RBF),S1459,2024,1,0.5751056153
+primary_no_nitrate_or_TN,SVM (RBF),S1460,2024,0,0.7591733292
+primary_no_nitrate_or_TN,SVM (RBF),S1461,2024,1,0.7462937842
+primary_no_nitrate_or_TN,SVM (RBF),S1462,2024,1,0.6789289687
+primary_no_nitrate_or_TN,SVM (RBF),S1463,2024,1,0.6970163847
+primary_no_nitrate_or_TN,SVM (RBF),S1464,2024,0,0.783266496
+primary_no_nitrate_or_TN,SVM (RBF),S1465,2024,1,0.8186844964
+primary_no_nitrate_or_TN,SVM (RBF),S1466,2024,0,0.7146592339
+primary_no_nitrate_or_TN,SVM (RBF),S1467,2024,0,0.694375617
+primary_no_nitrate_or_TN,SVM (RBF),S1468,2024,0,0.7605933417
+primary_no_nitrate_or_TN,SVM (RBF),S1469,2024,0,0.6570871374
+primary_no_nitrate_or_TN,SVM (RBF),S1470,2024,0,0.459402757
+primary_no_nitrate_or_TN,SVM (RBF),S1471,2024,0,0.7419068991
+primary_no_nitrate_or_TN,SVM (RBF),S1472,2024,1,0.6602569263
+primary_no_nitrate_or_TN,SVM (RBF),S1473,2024,0,0.7640117754
+primary_no_nitrate_or_TN,SVM (RBF),S1474,2024,1,0.3677825741
+primary_no_nitrate_or_TN,SVM (RBF),S1475,2024,1,0.5
+primary_no_nitrate_or_TN,SVM (RBF),S1752,2024,0,0.779823762
+primary_no_nitrate_or_TN,SVM (RBF),S1753,2024,1,0.7856875322
+primary_no_nitrate_or_TN,SVM (RBF),S1754,2024,1,0.5427579343
+primary_no_nitrate_or_TN,SVM (RBF),S1755,2024,0,0.7403852978
+primary_no_nitrate_or_TN,SVM (RBF),S1756,2024,1,0.7259039085
+primary_no_nitrate_or_TN,SVM (RBF),S1757,2024,0,0.7832897427
+primary_no_nitrate_or_TN,SVM (RBF),S1758,2024,0,0.5990591589
+primary_no_nitrate_or_TN,SVM (RBF),S1759,2024,1,0.7342815232
+primary_no_nitrate_or_TN,SVM (RBF),S1760,2024,1,0.6892785965
+primary_no_nitrate_or_TN,SVM (RBF),S1761,2024,1,0.686350365
+primary_no_nitrate_or_TN,SVM (RBF),S1762,2024,1,0.6790384966
+primary_no_nitrate_or_TN,SVM (RBF),S1763,2024,1,0.7425398107
+primary_no_nitrate_or_TN,SVM (RBF),S1764,2024,0,0.7116799262
+primary_no_nitrate_or_TN,SVM (RBF),S1765,2024,0,0.5339460668
+primary_no_nitrate_or_TN,SVM (RBF),S1766,2024,1,0.8084329757
+primary_no_nitrate_or_TN,SVM (RBF),S1767,2024,1,0.6618094384
+primary_no_nitrate_or_TN,SVM (RBF),S1768,2024,1,0.7712720402
+primary_no_nitrate_or_TN,SVM (RBF),S1769,2024,1,0.5519824497
+primary_no_nitrate_or_TN,SVM (RBF),S1770,2024,0,0.4689496429
+primary_no_nitrate_or_TN,B1 source only,S0867,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S0868,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S0869,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S0870,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S0871,2024,0,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S0872,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S0873,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S0874,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S0875,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S0876,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S0877,2024,0,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S0878,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S0879,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S0880,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S0881,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S0882,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S0883,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S0884,2024,0,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S0885,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S1162,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S1163,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S1164,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S1165,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S1166,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S1167,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S1168,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S1169,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S1170,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S1171,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S1172,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S1173,2024,0,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S1174,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S1175,2024,0,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S1176,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S1177,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S1178,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S1179,2024,1,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S1180,2024,0,0.8410419212
+primary_no_nitrate_or_TN,B1 source only,S1457,2024,1,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1458,2024,0,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1459,2024,1,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1460,2024,0,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1461,2024,1,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1462,2024,1,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1463,2024,1,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1464,2024,0,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1465,2024,1,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1466,2024,0,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1467,2024,0,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1468,2024,0,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1469,2024,0,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1470,2024,0,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1471,2024,0,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1472,2024,1,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1473,2024,0,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1474,2024,1,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1475,2024,1,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1752,2024,0,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1753,2024,1,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1754,2024,1,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1755,2024,0,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1756,2024,1,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1757,2024,0,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1758,2024,0,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1759,2024,1,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1760,2024,1,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1761,2024,1,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1762,2024,1,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1763,2024,1,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1764,2024,0,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1765,2024,0,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1766,2024,1,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1767,2024,1,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1768,2024,1,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1769,2024,1,0.5753520037
+primary_no_nitrate_or_TN,B1 source only,S1770,2024,0,0.5753520037
+primary_no_nitrate_or_TN,B2 source and season,S0867,2024,1,0.9027023451
+primary_no_nitrate_or_TN,B2 source and season,S0868,2024,1,0.8842764114
+primary_no_nitrate_or_TN,B2 source and season,S0869,2024,1,0.760156339
+primary_no_nitrate_or_TN,B2 source and season,S0870,2024,1,0.9027023451
+primary_no_nitrate_or_TN,B2 source and season,S0871,2024,0,0.8842764114
+primary_no_nitrate_or_TN,B2 source and season,S0872,2024,1,0.8118260107
+primary_no_nitrate_or_TN,B2 source and season,S0873,2024,1,0.8118260107
+primary_no_nitrate_or_TN,B2 source and season,S0874,2024,1,0.9027023451
+primary_no_nitrate_or_TN,B2 source and season,S0875,2024,1,0.9027023451
+primary_no_nitrate_or_TN,B2 source and season,S0876,2024,1,0.8118260107
+primary_no_nitrate_or_TN,B2 source and season,S0877,2024,0,0.8118260107
+primary_no_nitrate_or_TN,B2 source and season,S0878,2024,1,0.9027023451
+primary_no_nitrate_or_TN,B2 source and season,S0879,2024,1,0.9027023451
+primary_no_nitrate_or_TN,B2 source and season,S0880,2024,1,0.760156339
+primary_no_nitrate_or_TN,B2 source and season,S0881,2024,1,0.9027023451
+primary_no_nitrate_or_TN,B2 source and season,S0882,2024,1,0.8118260107
+primary_no_nitrate_or_TN,B2 source and season,S0883,2024,1,0.8842764114
+primary_no_nitrate_or_TN,B2 source and season,S0884,2024,0,0.760156339
+primary_no_nitrate_or_TN,B2 source and season,S0885,2024,1,0.760156339
+primary_no_nitrate_or_TN,B2 source and season,S1162,2024,1,0.9027023451
+primary_no_nitrate_or_TN,B2 source and season,S1163,2024,1,0.8842764114
+primary_no_nitrate_or_TN,B2 source and season,S1164,2024,1,0.760156339
+primary_no_nitrate_or_TN,B2 source and season,S1165,2024,1,0.9027023451
+primary_no_nitrate_or_TN,B2 source and season,S1166,2024,1,0.8842764114
+primary_no_nitrate_or_TN,B2 source and season,S1167,2024,1,0.8118260107
+primary_no_nitrate_or_TN,B2 source and season,S1168,2024,1,0.8118260107
+primary_no_nitrate_or_TN,B2 source and season,S1169,2024,1,0.9027023451
+primary_no_nitrate_or_TN,B2 source and season,S1170,2024,1,0.9027023451
+primary_no_nitrate_or_TN,B2 source and season,S1171,2024,1,0.8118260107
+primary_no_nitrate_or_TN,B2 source and season,S1172,2024,1,0.8118260107
+primary_no_nitrate_or_TN,B2 source and season,S1173,2024,0,0.9027023451
+primary_no_nitrate_or_TN,B2 source and season,S1174,2024,1,0.9027023451
+primary_no_nitrate_or_TN,B2 source and season,S1175,2024,0,0.760156339
+primary_no_nitrate_or_TN,B2 source and season,S1176,2024,1,0.9027023451
+primary_no_nitrate_or_TN,B2 source and season,S1177,2024,1,0.8118260107
+primary_no_nitrate_or_TN,B2 source and season,S1178,2024,1,0.8842764114
+primary_no_nitrate_or_TN,B2 source and season,S1179,2024,1,0.760156339
+primary_no_nitrate_or_TN,B2 source and season,S1180,2024,0,0.760156339
+primary_no_nitrate_or_TN,B2 source and season,S1457,2024,1,0.693955045
+primary_no_nitrate_or_TN,B2 source and season,S1458,2024,0,0.6512691104
+primary_no_nitrate_or_TN,B2 source and season,S1459,2024,1,0.4364933533
+primary_no_nitrate_or_TN,B2 source and season,S1460,2024,0,0.693955045
+primary_no_nitrate_or_TN,B2 source and season,S1461,2024,1,0.6512691104
+primary_no_nitrate_or_TN,B2 source and season,S1462,2024,1,0.5132409611
+primary_no_nitrate_or_TN,B2 source and season,S1463,2024,1,0.5132409611
+primary_no_nitrate_or_TN,B2 source and season,S1464,2024,0,0.693955045
+primary_no_nitrate_or_TN,B2 source and season,S1465,2024,1,0.693955045
+primary_no_nitrate_or_TN,B2 source and season,S1466,2024,0,0.5132409611
+primary_no_nitrate_or_TN,B2 source and season,S1467,2024,0,0.5132409611
+primary_no_nitrate_or_TN,B2 source and season,S1468,2024,0,0.693955045
+primary_no_nitrate_or_TN,B2 source and season,S1469,2024,0,0.693955045
+primary_no_nitrate_or_TN,B2 source and season,S1470,2024,0,0.4364933533
+primary_no_nitrate_or_TN,B2 source and season,S1471,2024,0,0.693955045
+primary_no_nitrate_or_TN,B2 source and season,S1472,2024,1,0.5132409611
+primary_no_nitrate_or_TN,B2 source and season,S1473,2024,0,0.6512691104
+primary_no_nitrate_or_TN,B2 source and season,S1474,2024,1,0.4364933533
+primary_no_nitrate_or_TN,B2 source and season,S1475,2024,1,0.4364933533
+primary_no_nitrate_or_TN,B2 source and season,S1752,2024,0,0.693955045
+primary_no_nitrate_or_TN,B2 source and season,S1753,2024,1,0.6512691104
+primary_no_nitrate_or_TN,B2 source and season,S1754,2024,1,0.4364933533
+primary_no_nitrate_or_TN,B2 source and season,S1755,2024,0,0.693955045
+primary_no_nitrate_or_TN,B2 source and season,S1756,2024,1,0.6512691104
+primary_no_nitrate_or_TN,B2 source and season,S1757,2024,0,0.5132409611
+primary_no_nitrate_or_TN,B2 source and season,S1758,2024,0,0.5132409611
+primary_no_nitrate_or_TN,B2 source and season,S1759,2024,1,0.693955045
+primary_no_nitrate_or_TN,B2 source and season,S1760,2024,1,0.693955045
+primary_no_nitrate_or_TN,B2 source and season,S1761,2024,1,0.5132409611
+primary_no_nitrate_or_TN,B2 source and season,S1762,2024,1,0.5132409611
+primary_no_nitrate_or_TN,B2 source and season,S1763,2024,1,0.693955045
+primary_no_nitrate_or_TN,B2 source and season,S1764,2024,0,0.693955045
+primary_no_nitrate_or_TN,B2 source and season,S1765,2024,0,0.4364933533
+primary_no_nitrate_or_TN,B2 source and season,S1766,2024,1,0.693955045
+primary_no_nitrate_or_TN,B2 source and season,S1767,2024,1,0.5132409611
+primary_no_nitrate_or_TN,B2 source and season,S1768,2024,1,0.6512691104
+primary_no_nitrate_or_TN,B2 source and season,S1769,2024,1,0.4364933533
+primary_no_nitrate_or_TN,B2 source and season,S1770,2024,0,0.4364933533
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S0867,2024,1,0.9191125041
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S0868,2024,1,0.8896265018
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S0869,2024,1,0.772433926
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S0870,2024,1,0.9006155074
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S0871,2024,0,0.8868138504
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S0872,2024,1,0.8050546268
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S0873,2024,1,0.8760874284
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S0874,2024,1,0.9209185047
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S0875,2024,1,0.9284052813
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S0876,2024,1,0.8352954213
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S0877,2024,0,0.8184151578
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S0878,2024,1,0.8868865073
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S0879,2024,1,0.9178517415
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S0880,2024,1,0.8289291265
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S0881,2024,1,0.8976798056
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S0882,2024,1,0.8324606397
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S0883,2024,1,0.9254365159
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S0884,2024,0,0.7607034521
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S0885,2024,1,0.7532627784
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1162,2024,1,0.9316607679
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1163,2024,1,0.8740267952
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1164,2024,1,0.7460581622
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1165,2024,1,0.8705329892
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1166,2024,1,0.8807102451
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1167,2024,1,0.7576917765
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1168,2024,1,0.8116610438
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1169,2024,1,0.8815195895
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1170,2024,1,0.9000209753
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1171,2024,1,0.8314886916
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1172,2024,1,0.8164906876
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1173,2024,0,0.8832438672
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1174,2024,1,0.9014238749
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1175,2024,0,0.7254228638
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1176,2024,1,0.8769045634
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1177,2024,1,0.7766964511
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1178,2024,1,0.8452421061
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1179,2024,1,0.8085542629
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1180,2024,0,0.716394791
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1457,2024,1,0.6841440374
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1458,2024,0,0.6914304272
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1459,2024,1,0.4287305257
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1460,2024,0,0.6936446908
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1461,2024,1,0.6333055627
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1462,2024,1,0.5713592855
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1463,2024,1,0.5111630561
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1464,2024,0,0.686173534
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1465,2024,1,0.6819053688
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1466,2024,0,0.5311696364
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1467,2024,0,0.4989822735
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1468,2024,0,0.7300025691
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1469,2024,0,0.6913979872
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1470,2024,0,0.4146292711
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1471,2024,0,0.7003619179
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1472,2024,1,0.5172005812
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1473,2024,0,0.7213418435
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1474,2024,1,0.4403737697
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1475,2024,1,0.4199240756
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1752,2024,0,0.6816134552
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1753,2024,1,0.6826673443
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1754,2024,1,0.4616957873
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1755,2024,0,0.7009510279
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1756,2024,1,0.6780812445
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1757,2024,0,0.5204994652
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1758,2024,0,0.4944262352
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1759,2024,1,0.694032817
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1760,2024,1,0.6849498515
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1761,2024,1,0.6388257435
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1762,2024,1,0.5102392789
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1763,2024,1,0.7900117789
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1764,2024,0,0.6989830842
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1765,2024,0,0.4121147594
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1766,2024,1,0.7654704133
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1767,2024,1,0.512225671
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1768,2024,1,0.6689395005
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1769,2024,1,0.4496072927
+primary_no_nitrate_or_TN,B3 LR plus 3 chemical predictors,S1770,2024,0,0.4147480222
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S0867,2024,1,0.5172413793
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S0868,2024,1,0.9259259259
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S0869,2024,1,0.8267148014
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S0870,2024,1,0.8267148014
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S0871,2024,0,0.9259259259
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S0872,2024,1,0.8267148014
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S0873,2024,1,0.8267148014
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S0874,2024,1,0.9259259259
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S0875,2024,1,0.8267148014
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S0876,2024,1,0.9259259259
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S0877,2024,0,0.8267148014
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S0878,2024,1,0.8267148014
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S0879,2024,1,0.9259259259
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S0880,2024,1,0.8267148014
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S0881,2024,1,0.8267148014
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S0882,2024,1,0.8267148014
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S0883,2024,1,0.8267148014
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S0884,2024,0,0.9259259259
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S0885,2024,1,0.9259259259
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1162,2024,1,0.8267148014
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1163,2024,1,0.9259259259
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1164,2024,1,0.9259259259
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1165,2024,1,0.9259259259
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1166,2024,1,0.8267148014
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1167,2024,1,0.8059701493
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1168,2024,1,0.8059701493
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1169,2024,1,0.8059701493
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1170,2024,1,0.9259259259
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1171,2024,1,0.8267148014
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1172,2024,1,0.9259259259
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1173,2024,0,0.8059701493
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1174,2024,1,0.8059701493
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1175,2024,0,0.8059701493
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1176,2024,1,0.9259259259
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1177,2024,1,0.9259259259
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1178,2024,1,0.8267148014
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1179,2024,1,0.8059701493
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1180,2024,0,0.8059701493
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1457,2024,1,0.6713286713
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1458,2024,0,0.5179487179
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1459,2024,1,0.5179487179
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1460,2024,0,0.6713286713
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1461,2024,1,0.5179487179
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1462,2024,1,0.5179487179
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1463,2024,1,0.5179487179
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1464,2024,0,0.6713286713
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1465,2024,1,0.9259259259
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1466,2024,0,0.5179487179
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1467,2024,0,0.5179487179
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1468,2024,0,0.6713286713
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1469,2024,0,0.6713286713
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1470,2024,0,0.5179487179
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1471,2024,0,0.6713286713
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1472,2024,1,0.5179487179
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1473,2024,0,0.5179487179
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1474,2024,1,0.5179487179
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1475,2024,1,0.5179487179
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1752,2024,0,0.6713286713
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1753,2024,1,0.9259259259
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1754,2024,1,0.5179487179
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1755,2024,0,0.6713286713
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1756,2024,1,0.5179487179
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1757,2024,0,0.5179487179
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1758,2024,0,0.5179487179
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1759,2024,1,0.6713286713
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1760,2024,1,0.6713286713
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1761,2024,1,0.5179487179
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1762,2024,1,0.5179487179
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1763,2024,1,0.6713286713
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1764,2024,0,0.6713286713
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1765,2024,0,0.5179487179
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1766,2024,1,0.9259259259
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1767,2024,1,0.5179487179
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1768,2024,1,0.5179487179
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1769,2024,1,0.9259259259
+primary_no_nitrate_or_TN,B4 decision tree depth 3,S1770,2024,0,0.5179487179
+sensitivity_no_nitrate,Logistic regression,S0867,2024,1,0.933400311
+sensitivity_no_nitrate,Logistic regression,S0868,2024,1,0.8814323843
+sensitivity_no_nitrate,Logistic regression,S0869,2024,1,0.8626540158
+sensitivity_no_nitrate,Logistic regression,S0870,2024,1,0.8655999913
+sensitivity_no_nitrate,Logistic regression,S0871,2024,0,0.9259249641
+sensitivity_no_nitrate,Logistic regression,S0872,2024,1,0.8369006497
+sensitivity_no_nitrate,Logistic regression,S0873,2024,1,0.9012394131
+sensitivity_no_nitrate,Logistic regression,S0874,2024,1,0.8951207261
+sensitivity_no_nitrate,Logistic regression,S0875,2024,1,0.898924947
+sensitivity_no_nitrate,Logistic regression,S0876,2024,1,0.8484832223
+sensitivity_no_nitrate,Logistic regression,S0877,2024,0,0.7860637575
+sensitivity_no_nitrate,Logistic regression,S0878,2024,1,0.9151547059
+sensitivity_no_nitrate,Logistic regression,S0879,2024,1,0.9418901775
+sensitivity_no_nitrate,Logistic regression,S0880,2024,1,0.8452007729
+sensitivity_no_nitrate,Logistic regression,S0881,2024,1,0.9060514392
+sensitivity_no_nitrate,Logistic regression,S0882,2024,1,0.819793636
+sensitivity_no_nitrate,Logistic regression,S0883,2024,1,0.9449147336
+sensitivity_no_nitrate,Logistic regression,S0884,2024,0,0.7916703492
+sensitivity_no_nitrate,Logistic regression,S0885,2024,1,0.8107896976
+sensitivity_no_nitrate,Logistic regression,S1162,2024,1,0.9505771799
+sensitivity_no_nitrate,Logistic regression,S1163,2024,1,0.8309231258
+sensitivity_no_nitrate,Logistic regression,S1164,2024,1,0.6855376502
+sensitivity_no_nitrate,Logistic regression,S1165,2024,1,0.8266205486
+sensitivity_no_nitrate,Logistic regression,S1166,2024,1,0.8328380397
+sensitivity_no_nitrate,Logistic regression,S1167,2024,1,0.7721112646
+sensitivity_no_nitrate,Logistic regression,S1168,2024,1,0.8025251772
+sensitivity_no_nitrate,Logistic regression,S1169,2024,1,0.8270413842
+sensitivity_no_nitrate,Logistic regression,S1170,2024,1,0.8596721231
+sensitivity_no_nitrate,Logistic regression,S1171,2024,1,0.7486298912
+sensitivity_no_nitrate,Logistic regression,S1172,2024,1,0.7612270422
+sensitivity_no_nitrate,Logistic regression,S1173,2024,0,0.8767607712
+sensitivity_no_nitrate,Logistic regression,S1174,2024,1,0.9098486455
+sensitivity_no_nitrate,Logistic regression,S1175,2024,0,0.7391844278
+sensitivity_no_nitrate,Logistic regression,S1176,2024,1,0.8652643861
+sensitivity_no_nitrate,Logistic regression,S1177,2024,1,0.7445432014
+sensitivity_no_nitrate,Logistic regression,S1178,2024,1,0.9183307578
+sensitivity_no_nitrate,Logistic regression,S1179,2024,1,0.7946408106
+sensitivity_no_nitrate,Logistic regression,S1180,2024,0,0.6502389324
+sensitivity_no_nitrate,Logistic regression,S1457,2024,1,0.6738881417
+sensitivity_no_nitrate,Logistic regression,S1458,2024,0,0.8044586501
+sensitivity_no_nitrate,Logistic regression,S1459,2024,1,0.4847229448
+sensitivity_no_nitrate,Logistic regression,S1460,2024,0,0.6716736887
+sensitivity_no_nitrate,Logistic regression,S1461,2024,1,0.6456264202
+sensitivity_no_nitrate,Logistic regression,S1462,2024,1,0.4691253703
+sensitivity_no_nitrate,Logistic regression,S1463,2024,1,0.4973852406
+sensitivity_no_nitrate,Logistic regression,S1464,2024,0,0.7232197051
+sensitivity_no_nitrate,Logistic regression,S1465,2024,1,0.8751380144
+sensitivity_no_nitrate,Logistic regression,S1466,2024,0,0.5196837465
+sensitivity_no_nitrate,Logistic regression,S1467,2024,0,0.5181259106
+sensitivity_no_nitrate,Logistic regression,S1468,2024,0,0.7268931109
+sensitivity_no_nitrate,Logistic regression,S1469,2024,0,0.5938917783
+sensitivity_no_nitrate,Logistic regression,S1470,2024,0,0.499594569
+sensitivity_no_nitrate,Logistic regression,S1471,2024,0,0.6749796539
+sensitivity_no_nitrate,Logistic regression,S1472,2024,1,0.5272843137
+sensitivity_no_nitrate,Logistic regression,S1473,2024,0,0.7395538016
+sensitivity_no_nitrate,Logistic regression,S1474,2024,1,0.4721495131
+sensitivity_no_nitrate,Logistic regression,S1475,2024,1,0.3957000522
+sensitivity_no_nitrate,Logistic regression,S1752,2024,0,0.7624760213
+sensitivity_no_nitrate,Logistic regression,S1753,2024,1,0.7912578252
+sensitivity_no_nitrate,Logistic regression,S1754,2024,1,0.4525357761
+sensitivity_no_nitrate,Logistic regression,S1755,2024,0,0.7349789296
+sensitivity_no_nitrate,Logistic regression,S1756,2024,1,0.7072135143
+sensitivity_no_nitrate,Logistic regression,S1757,2024,0,0.5634294214
+sensitivity_no_nitrate,Logistic regression,S1758,2024,0,0.4826258443
+sensitivity_no_nitrate,Logistic regression,S1759,2024,1,0.6244477102
+sensitivity_no_nitrate,Logistic regression,S1760,2024,1,0.6827693351
+sensitivity_no_nitrate,Logistic regression,S1761,2024,1,0.5723934446
+sensitivity_no_nitrate,Logistic regression,S1762,2024,1,0.5162106099
+sensitivity_no_nitrate,Logistic regression,S1763,2024,1,0.7647276462
+sensitivity_no_nitrate,Logistic regression,S1764,2024,0,0.6640873248
+sensitivity_no_nitrate,Logistic regression,S1765,2024,0,0.4083612473
+sensitivity_no_nitrate,Logistic regression,S1766,2024,1,0.7862916447
+sensitivity_no_nitrate,Logistic regression,S1767,2024,1,0.5007263725
+sensitivity_no_nitrate,Logistic regression,S1768,2024,1,0.7459259946
+sensitivity_no_nitrate,Logistic regression,S1769,2024,1,0.5000004342
+sensitivity_no_nitrate,Logistic regression,S1770,2024,0,0.4193125287
+sensitivity_no_nitrate,Random forest,S0867,2024,1,0.8085855708
+sensitivity_no_nitrate,Random forest,S0868,2024,1,0.8789646937
+sensitivity_no_nitrate,Random forest,S0869,2024,1,0.8517163009
+sensitivity_no_nitrate,Random forest,S0870,2024,1,0.7663567434
+sensitivity_no_nitrate,Random forest,S0871,2024,0,0.9068025362
+sensitivity_no_nitrate,Random forest,S0872,2024,1,0.7514378034
+sensitivity_no_nitrate,Random forest,S0873,2024,1,0.8778191087
+sensitivity_no_nitrate,Random forest,S0874,2024,1,0.7849176608
+sensitivity_no_nitrate,Random forest,S0875,2024,1,0.8457687722
+sensitivity_no_nitrate,Random forest,S0876,2024,1,0.8440004296
+sensitivity_no_nitrate,Random forest,S0877,2024,0,0.8184525333
+sensitivity_no_nitrate,Random forest,S0878,2024,1,0.8389613072
+sensitivity_no_nitrate,Random forest,S0879,2024,1,0.9276101727
+sensitivity_no_nitrate,Random forest,S0880,2024,1,0.9172719997
+sensitivity_no_nitrate,Random forest,S0881,2024,1,0.8757376357
+sensitivity_no_nitrate,Random forest,S0882,2024,1,0.8460243089
+sensitivity_no_nitrate,Random forest,S0883,2024,1,0.8328952645
+sensitivity_no_nitrate,Random forest,S0884,2024,0,0.8505290845
+sensitivity_no_nitrate,Random forest,S0885,2024,1,0.8920115119
+sensitivity_no_nitrate,Random forest,S1162,2024,1,0.8268732571
+sensitivity_no_nitrate,Random forest,S1163,2024,1,0.8694213259
+sensitivity_no_nitrate,Random forest,S1164,2024,1,0.827464147
+sensitivity_no_nitrate,Random forest,S1165,2024,1,0.7621088008
+sensitivity_no_nitrate,Random forest,S1166,2024,1,0.745544517
+sensitivity_no_nitrate,Random forest,S1167,2024,1,0.7121388116
+sensitivity_no_nitrate,Random forest,S1168,2024,1,0.716468463
+sensitivity_no_nitrate,Random forest,S1169,2024,1,0.8004378494
+sensitivity_no_nitrate,Random forest,S1170,2024,1,0.9000628233
+sensitivity_no_nitrate,Random forest,S1171,2024,1,0.6609714016
+sensitivity_no_nitrate,Random forest,S1172,2024,1,0.727005607
+sensitivity_no_nitrate,Random forest,S1173,2024,0,0.8518406571
+sensitivity_no_nitrate,Random forest,S1174,2024,1,0.7709718845
+sensitivity_no_nitrate,Random forest,S1175,2024,0,0.7294823756
+sensitivity_no_nitrate,Random forest,S1176,2024,1,0.705694347
+sensitivity_no_nitrate,Random forest,S1177,2024,1,0.8413184585
+sensitivity_no_nitrate,Random forest,S1178,2024,1,0.8171023399
+sensitivity_no_nitrate,Random forest,S1179,2024,1,0.7975617656
+sensitivity_no_nitrate,Random forest,S1180,2024,0,0.816107384
+sensitivity_no_nitrate,Random forest,S1457,2024,1,0.5957532159
+sensitivity_no_nitrate,Random forest,S1458,2024,0,0.7048533081
+sensitivity_no_nitrate,Random forest,S1459,2024,1,0.6741381439
+sensitivity_no_nitrate,Random forest,S1460,2024,0,0.6960304222
+sensitivity_no_nitrate,Random forest,S1461,2024,1,0.5652298195
+sensitivity_no_nitrate,Random forest,S1462,2024,1,0.6633276045
+sensitivity_no_nitrate,Random forest,S1463,2024,1,0.6481214529
+sensitivity_no_nitrate,Random forest,S1464,2024,0,0.5257665504
+sensitivity_no_nitrate,Random forest,S1465,2024,1,0.7064864547
+sensitivity_no_nitrate,Random forest,S1466,2024,0,0.6971656379
+sensitivity_no_nitrate,Random forest,S1467,2024,0,0.5351621065
+sensitivity_no_nitrate,Random forest,S1468,2024,0,0.6879062598
+sensitivity_no_nitrate,Random forest,S1469,2024,0,0.5977950031
+sensitivity_no_nitrate,Random forest,S1470,2024,0,0.5149175252
+sensitivity_no_nitrate,Random forest,S1471,2024,0,0.6237133417
+sensitivity_no_nitrate,Random forest,S1472,2024,1,0.551149196
+sensitivity_no_nitrate,Random forest,S1473,2024,0,0.6545520564
+sensitivity_no_nitrate,Random forest,S1474,2024,1,0.4554157056
+sensitivity_no_nitrate,Random forest,S1475,2024,1,0.5995183222
+sensitivity_no_nitrate,Random forest,S1752,2024,0,0.6436654148
+sensitivity_no_nitrate,Random forest,S1753,2024,1,0.7649466336
+sensitivity_no_nitrate,Random forest,S1754,2024,1,0.5723501095
+sensitivity_no_nitrate,Random forest,S1755,2024,0,0.6954349038
+sensitivity_no_nitrate,Random forest,S1756,2024,1,0.6644369875
+sensitivity_no_nitrate,Random forest,S1757,2024,0,0.6895663523
+sensitivity_no_nitrate,Random forest,S1758,2024,0,0.4634353937
+sensitivity_no_nitrate,Random forest,S1759,2024,1,0.5628747068
+sensitivity_no_nitrate,Random forest,S1760,2024,1,0.5141387653
+sensitivity_no_nitrate,Random forest,S1761,2024,1,0.5933044995
+sensitivity_no_nitrate,Random forest,S1762,2024,1,0.6211155587
+sensitivity_no_nitrate,Random forest,S1763,2024,1,0.6351174002
+sensitivity_no_nitrate,Random forest,S1764,2024,0,0.5662064954
+sensitivity_no_nitrate,Random forest,S1765,2024,0,0.6981681181
+sensitivity_no_nitrate,Random forest,S1766,2024,1,0.8578914962
+sensitivity_no_nitrate,Random forest,S1767,2024,1,0.5573891258
+sensitivity_no_nitrate,Random forest,S1768,2024,1,0.6815249487
+sensitivity_no_nitrate,Random forest,S1769,2024,1,0.7719278695
+sensitivity_no_nitrate,Random forest,S1770,2024,0,0.4396022032
+sensitivity_no_nitrate,XGBoost,S0867,2024,1,0.8417422771
+sensitivity_no_nitrate,XGBoost,S0868,2024,1,0.8809741139
+sensitivity_no_nitrate,XGBoost,S0869,2024,1,0.874925971
+sensitivity_no_nitrate,XGBoost,S0870,2024,1,0.7673097253
+sensitivity_no_nitrate,XGBoost,S0871,2024,0,0.9359214902
+sensitivity_no_nitrate,XGBoost,S0872,2024,1,0.8102519512
+sensitivity_no_nitrate,XGBoost,S0873,2024,1,0.8282133937
+sensitivity_no_nitrate,XGBoost,S0874,2024,1,0.8812808394
+sensitivity_no_nitrate,XGBoost,S0875,2024,1,0.9078595042
+sensitivity_no_nitrate,XGBoost,S0876,2024,1,0.8773857355
+sensitivity_no_nitrate,XGBoost,S0877,2024,0,0.8437201977
+sensitivity_no_nitrate,XGBoost,S0878,2024,1,0.8815125227
+sensitivity_no_nitrate,XGBoost,S0879,2024,1,0.925055325
+sensitivity_no_nitrate,XGBoost,S0880,2024,1,0.8751844764
+sensitivity_no_nitrate,XGBoost,S0881,2024,1,0.8906948566
+sensitivity_no_nitrate,XGBoost,S0882,2024,1,0.7822166681
+sensitivity_no_nitrate,XGBoost,S0883,2024,1,0.8536837101
+sensitivity_no_nitrate,XGBoost,S0884,2024,0,0.8382742405
+sensitivity_no_nitrate,XGBoost,S0885,2024,1,0.8694431186
+sensitivity_no_nitrate,XGBoost,S1162,2024,1,0.9044934511
+sensitivity_no_nitrate,XGBoost,S1163,2024,1,0.8460304141
+sensitivity_no_nitrate,XGBoost,S1164,2024,1,0.802841723
+sensitivity_no_nitrate,XGBoost,S1165,2024,1,0.8593525887
+sensitivity_no_nitrate,XGBoost,S1166,2024,1,0.8276360631
+sensitivity_no_nitrate,XGBoost,S1167,2024,1,0.6977322102
+sensitivity_no_nitrate,XGBoost,S1168,2024,1,0.7195026875
+sensitivity_no_nitrate,XGBoost,S1169,2024,1,0.7950971723
+sensitivity_no_nitrate,XGBoost,S1170,2024,1,0.8828473687
+sensitivity_no_nitrate,XGBoost,S1171,2024,1,0.6876247525
+sensitivity_no_nitrate,XGBoost,S1172,2024,1,0.76106745
+sensitivity_no_nitrate,XGBoost,S1173,2024,0,0.7669268847
+sensitivity_no_nitrate,XGBoost,S1174,2024,1,0.784918189
+sensitivity_no_nitrate,XGBoost,S1175,2024,0,0.7095292211
+sensitivity_no_nitrate,XGBoost,S1176,2024,1,0.8075551391
+sensitivity_no_nitrate,XGBoost,S1177,2024,1,0.7938548923
+sensitivity_no_nitrate,XGBoost,S1178,2024,1,0.8570526838
+sensitivity_no_nitrate,XGBoost,S1179,2024,1,0.7682466507
+sensitivity_no_nitrate,XGBoost,S1180,2024,0,0.7053815722
+sensitivity_no_nitrate,XGBoost,S1457,2024,1,0.5811464787
+sensitivity_no_nitrate,XGBoost,S1458,2024,0,0.7221452594
+sensitivity_no_nitrate,XGBoost,S1459,2024,1,0.5319760442
+sensitivity_no_nitrate,XGBoost,S1460,2024,0,0.6361103058
+sensitivity_no_nitrate,XGBoost,S1461,2024,1,0.5963431001
+sensitivity_no_nitrate,XGBoost,S1462,2024,1,0.6118664145
+sensitivity_no_nitrate,XGBoost,S1463,2024,1,0.6055434346
+sensitivity_no_nitrate,XGBoost,S1464,2024,0,0.696141839
+sensitivity_no_nitrate,XGBoost,S1465,2024,1,0.7649195194
+sensitivity_no_nitrate,XGBoost,S1466,2024,0,0.5810257196
+sensitivity_no_nitrate,XGBoost,S1467,2024,0,0.4542386532
+sensitivity_no_nitrate,XGBoost,S1468,2024,0,0.7162968516
+sensitivity_no_nitrate,XGBoost,S1469,2024,0,0.6332582831
+sensitivity_no_nitrate,XGBoost,S1470,2024,0,0.4765732586
+sensitivity_no_nitrate,XGBoost,S1471,2024,0,0.6680943966
+sensitivity_no_nitrate,XGBoost,S1472,2024,1,0.5328211188
+sensitivity_no_nitrate,XGBoost,S1473,2024,0,0.7410719991
+sensitivity_no_nitrate,XGBoost,S1474,2024,1,0.5048737526
+sensitivity_no_nitrate,XGBoost,S1475,2024,1,0.5960668921
+sensitivity_no_nitrate,XGBoost,S1752,2024,0,0.6466082335
+sensitivity_no_nitrate,XGBoost,S1753,2024,1,0.8414305449
+sensitivity_no_nitrate,XGBoost,S1754,2024,1,0.5611262321
+sensitivity_no_nitrate,XGBoost,S1755,2024,0,0.6799225211
+sensitivity_no_nitrate,XGBoost,S1756,2024,1,0.7356148362
+sensitivity_no_nitrate,XGBoost,S1757,2024,0,0.5922336578
+sensitivity_no_nitrate,XGBoost,S1758,2024,0,0.3636003733
+sensitivity_no_nitrate,XGBoost,S1759,2024,1,0.6080459356
+sensitivity_no_nitrate,XGBoost,S1760,2024,1,0.6144063473
+sensitivity_no_nitrate,XGBoost,S1761,2024,1,0.5889564157
+sensitivity_no_nitrate,XGBoost,S1762,2024,1,0.5789098144
+sensitivity_no_nitrate,XGBoost,S1763,2024,1,0.7401471138
+sensitivity_no_nitrate,XGBoost,S1764,2024,0,0.6297207475
+sensitivity_no_nitrate,XGBoost,S1765,2024,0,0.5424882174
+sensitivity_no_nitrate,XGBoost,S1766,2024,1,0.8813127279
+sensitivity_no_nitrate,XGBoost,S1767,2024,1,0.557736814
+sensitivity_no_nitrate,XGBoost,S1768,2024,1,0.5972787738
+sensitivity_no_nitrate,XGBoost,S1769,2024,1,0.6107012033
+sensitivity_no_nitrate,XGBoost,S1770,2024,0,0.3612699211
+sensitivity_no_nitrate,SVM (RBF),S0867,2024,1,0.7933743216
+sensitivity_no_nitrate,SVM (RBF),S0868,2024,1,0.8330697184
+sensitivity_no_nitrate,SVM (RBF),S0869,2024,1,0.7992553041
+sensitivity_no_nitrate,SVM (RBF),S0870,2024,1,0.7759046294
+sensitivity_no_nitrate,SVM (RBF),S0871,2024,0,0.8142002822
+sensitivity_no_nitrate,SVM (RBF),S0872,2024,1,0.8155663522
+sensitivity_no_nitrate,SVM (RBF),S0873,2024,1,0.7601480043
+sensitivity_no_nitrate,SVM (RBF),S0874,2024,1,0.7456805306
+sensitivity_no_nitrate,SVM (RBF),S0875,2024,1,0.7896297395
+sensitivity_no_nitrate,SVM (RBF),S0876,2024,1,0.8098075964
+sensitivity_no_nitrate,SVM (RBF),S0877,2024,0,0.7573524318
+sensitivity_no_nitrate,SVM (RBF),S0878,2024,1,0.7723896852
+sensitivity_no_nitrate,SVM (RBF),S0879,2024,1,0.8068714693
+sensitivity_no_nitrate,SVM (RBF),S0880,2024,1,0.7748974765
+sensitivity_no_nitrate,SVM (RBF),S0881,2024,1,0.7897171101
+sensitivity_no_nitrate,SVM (RBF),S0882,2024,1,0.7973728675
+sensitivity_no_nitrate,SVM (RBF),S0883,2024,1,0.756343345
+sensitivity_no_nitrate,SVM (RBF),S0884,2024,0,0.762067511
+sensitivity_no_nitrate,SVM (RBF),S0885,2024,1,0.7937624434
+sensitivity_no_nitrate,SVM (RBF),S1162,2024,1,0.7591305649
+sensitivity_no_nitrate,SVM (RBF),S1163,2024,1,0.8160797044
+sensitivity_no_nitrate,SVM (RBF),S1164,2024,1,0.792388755
+sensitivity_no_nitrate,SVM (RBF),S1165,2024,1,0.8160708425
+sensitivity_no_nitrate,SVM (RBF),S1166,2024,1,0.7230420307
+sensitivity_no_nitrate,SVM (RBF),S1167,2024,1,0.7020475751
+sensitivity_no_nitrate,SVM (RBF),S1168,2024,1,0.688270241
+sensitivity_no_nitrate,SVM (RBF),S1169,2024,1,0.831269381
+sensitivity_no_nitrate,SVM (RBF),S1170,2024,1,0.8150189511
+sensitivity_no_nitrate,SVM (RBF),S1171,2024,1,0.764248367
+sensitivity_no_nitrate,SVM (RBF),S1172,2024,1,0.634593597
+sensitivity_no_nitrate,SVM (RBF),S1173,2024,0,0.8117780216
+sensitivity_no_nitrate,SVM (RBF),S1174,2024,1,0.7853717918
+sensitivity_no_nitrate,SVM (RBF),S1175,2024,0,0.7533353548
+sensitivity_no_nitrate,SVM (RBF),S1176,2024,1,0.7605384357
+sensitivity_no_nitrate,SVM (RBF),S1177,2024,1,0.7130474397
+sensitivity_no_nitrate,SVM (RBF),S1178,2024,1,0.8202839668
+sensitivity_no_nitrate,SVM (RBF),S1179,2024,1,0.7723463092
+sensitivity_no_nitrate,SVM (RBF),S1180,2024,0,0.8309256192
+sensitivity_no_nitrate,SVM (RBF),S1457,2024,1,0.6816968724
+sensitivity_no_nitrate,SVM (RBF),S1458,2024,0,0.8055821516
+sensitivity_no_nitrate,SVM (RBF),S1459,2024,1,0.5862565037
+sensitivity_no_nitrate,SVM (RBF),S1460,2024,0,0.7846209547
+sensitivity_no_nitrate,SVM (RBF),S1461,2024,1,0.7322754317
+sensitivity_no_nitrate,SVM (RBF),S1462,2024,1,0.6439824752
+sensitivity_no_nitrate,SVM (RBF),S1463,2024,1,0.6657668684
+sensitivity_no_nitrate,SVM (RBF),S1464,2024,0,0.7526521947
+sensitivity_no_nitrate,SVM (RBF),S1465,2024,1,0.8772304051
+sensitivity_no_nitrate,SVM (RBF),S1466,2024,0,0.7653693114
+sensitivity_no_nitrate,SVM (RBF),S1467,2024,0,0.7753564327
+sensitivity_no_nitrate,SVM (RBF),S1468,2024,0,0.6778161466
+sensitivity_no_nitrate,SVM (RBF),S1469,2024,0,0.7663244349
+sensitivity_no_nitrate,SVM (RBF),S1470,2024,0,0.4487311361
+sensitivity_no_nitrate,SVM (RBF),S1471,2024,0,0.7830629828
+sensitivity_no_nitrate,SVM (RBF),S1472,2024,1,0.7251737781
+sensitivity_no_nitrate,SVM (RBF),S1473,2024,0,0.7620009482
+sensitivity_no_nitrate,SVM (RBF),S1474,2024,1,0.2261943719
+sensitivity_no_nitrate,SVM (RBF),S1475,2024,1,0.5425729418
+sensitivity_no_nitrate,SVM (RBF),S1752,2024,0,0.7614896608
+sensitivity_no_nitrate,SVM (RBF),S1753,2024,1,0.8127214883
+sensitivity_no_nitrate,SVM (RBF),S1754,2024,1,0.507029639
+sensitivity_no_nitrate,SVM (RBF),S1755,2024,0,0.7309236736
+sensitivity_no_nitrate,SVM (RBF),S1756,2024,1,0.7222083367
+sensitivity_no_nitrate,SVM (RBF),S1757,2024,0,0.7973675592
+sensitivity_no_nitrate,SVM (RBF),S1758,2024,0,0.5868353009
+sensitivity_no_nitrate,SVM (RBF),S1759,2024,1,0.6602877306
+sensitivity_no_nitrate,SVM (RBF),S1760,2024,1,0.5723468439
+sensitivity_no_nitrate,SVM (RBF),S1761,2024,1,0.6895165215
+sensitivity_no_nitrate,SVM (RBF),S1762,2024,1,0.6359391278
+sensitivity_no_nitrate,SVM (RBF),S1763,2024,1,0.6829855774
+sensitivity_no_nitrate,SVM (RBF),S1764,2024,0,0.7067575953
+sensitivity_no_nitrate,SVM (RBF),S1765,2024,0,0.6038321407
+sensitivity_no_nitrate,SVM (RBF),S1766,2024,1,0.8332369403
+sensitivity_no_nitrate,SVM (RBF),S1767,2024,1,0.5826957559
+sensitivity_no_nitrate,SVM (RBF),S1768,2024,1,0.8013056001
+sensitivity_no_nitrate,SVM (RBF),S1769,2024,1,0.5320639561
+sensitivity_no_nitrate,SVM (RBF),S1770,2024,0,0.356938851
+sensitivity_no_nitrate,B1 source only,S0867,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S0868,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S0869,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S0870,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S0871,2024,0,0.8410419212
+sensitivity_no_nitrate,B1 source only,S0872,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S0873,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S0874,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S0875,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S0876,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S0877,2024,0,0.8410419212
+sensitivity_no_nitrate,B1 source only,S0878,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S0879,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S0880,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S0881,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S0882,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S0883,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S0884,2024,0,0.8410419212
+sensitivity_no_nitrate,B1 source only,S0885,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S1162,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S1163,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S1164,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S1165,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S1166,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S1167,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S1168,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S1169,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S1170,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S1171,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S1172,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S1173,2024,0,0.8410419212
+sensitivity_no_nitrate,B1 source only,S1174,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S1175,2024,0,0.8410419212
+sensitivity_no_nitrate,B1 source only,S1176,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S1177,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S1178,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S1179,2024,1,0.8410419212
+sensitivity_no_nitrate,B1 source only,S1180,2024,0,0.8410419212
+sensitivity_no_nitrate,B1 source only,S1457,2024,1,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1458,2024,0,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1459,2024,1,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1460,2024,0,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1461,2024,1,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1462,2024,1,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1463,2024,1,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1464,2024,0,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1465,2024,1,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1466,2024,0,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1467,2024,0,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1468,2024,0,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1469,2024,0,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1470,2024,0,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1471,2024,0,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1472,2024,1,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1473,2024,0,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1474,2024,1,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1475,2024,1,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1752,2024,0,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1753,2024,1,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1754,2024,1,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1755,2024,0,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1756,2024,1,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1757,2024,0,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1758,2024,0,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1759,2024,1,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1760,2024,1,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1761,2024,1,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1762,2024,1,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1763,2024,1,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1764,2024,0,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1765,2024,0,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1766,2024,1,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1767,2024,1,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1768,2024,1,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1769,2024,1,0.5753520037
+sensitivity_no_nitrate,B1 source only,S1770,2024,0,0.5753520037
+sensitivity_no_nitrate,B2 source and season,S0867,2024,1,0.9027023451
+sensitivity_no_nitrate,B2 source and season,S0868,2024,1,0.8842764114
+sensitivity_no_nitrate,B2 source and season,S0869,2024,1,0.760156339
+sensitivity_no_nitrate,B2 source and season,S0870,2024,1,0.9027023451
+sensitivity_no_nitrate,B2 source and season,S0871,2024,0,0.8842764114
+sensitivity_no_nitrate,B2 source and season,S0872,2024,1,0.8118260107
+sensitivity_no_nitrate,B2 source and season,S0873,2024,1,0.8118260107
+sensitivity_no_nitrate,B2 source and season,S0874,2024,1,0.9027023451
+sensitivity_no_nitrate,B2 source and season,S0875,2024,1,0.9027023451
+sensitivity_no_nitrate,B2 source and season,S0876,2024,1,0.8118260107
+sensitivity_no_nitrate,B2 source and season,S0877,2024,0,0.8118260107
+sensitivity_no_nitrate,B2 source and season,S0878,2024,1,0.9027023451
+sensitivity_no_nitrate,B2 source and season,S0879,2024,1,0.9027023451
+sensitivity_no_nitrate,B2 source and season,S0880,2024,1,0.760156339
+sensitivity_no_nitrate,B2 source and season,S0881,2024,1,0.9027023451
+sensitivity_no_nitrate,B2 source and season,S0882,2024,1,0.8118260107
+sensitivity_no_nitrate,B2 source and season,S0883,2024,1,0.8842764114
+sensitivity_no_nitrate,B2 source and season,S0884,2024,0,0.760156339
+sensitivity_no_nitrate,B2 source and season,S0885,2024,1,0.760156339
+sensitivity_no_nitrate,B2 source and season,S1162,2024,1,0.9027023451
+sensitivity_no_nitrate,B2 source and season,S1163,2024,1,0.8842764114
+sensitivity_no_nitrate,B2 source and season,S1164,2024,1,0.760156339
+sensitivity_no_nitrate,B2 source and season,S1165,2024,1,0.9027023451
+sensitivity_no_nitrate,B2 source and season,S1166,2024,1,0.8842764114
+sensitivity_no_nitrate,B2 source and season,S1167,2024,1,0.8118260107
+sensitivity_no_nitrate,B2 source and season,S1168,2024,1,0.8118260107
+sensitivity_no_nitrate,B2 source and season,S1169,2024,1,0.9027023451
+sensitivity_no_nitrate,B2 source and season,S1170,2024,1,0.9027023451
+sensitivity_no_nitrate,B2 source and season,S1171,2024,1,0.8118260107
+sensitivity_no_nitrate,B2 source and season,S1172,2024,1,0.8118260107
+sensitivity_no_nitrate,B2 source and season,S1173,2024,0,0.9027023451
+sensitivity_no_nitrate,B2 source and season,S1174,2024,1,0.9027023451
+sensitivity_no_nitrate,B2 source and season,S1175,2024,0,0.760156339
+sensitivity_no_nitrate,B2 source and season,S1176,2024,1,0.9027023451
+sensitivity_no_nitrate,B2 source and season,S1177,2024,1,0.8118260107
+sensitivity_no_nitrate,B2 source and season,S1178,2024,1,0.8842764114
+sensitivity_no_nitrate,B2 source and season,S1179,2024,1,0.760156339
+sensitivity_no_nitrate,B2 source and season,S1180,2024,0,0.760156339
+sensitivity_no_nitrate,B2 source and season,S1457,2024,1,0.693955045
+sensitivity_no_nitrate,B2 source and season,S1458,2024,0,0.6512691104
+sensitivity_no_nitrate,B2 source and season,S1459,2024,1,0.4364933533
+sensitivity_no_nitrate,B2 source and season,S1460,2024,0,0.693955045
+sensitivity_no_nitrate,B2 source and season,S1461,2024,1,0.6512691104
+sensitivity_no_nitrate,B2 source and season,S1462,2024,1,0.5132409611
+sensitivity_no_nitrate,B2 source and season,S1463,2024,1,0.5132409611
+sensitivity_no_nitrate,B2 source and season,S1464,2024,0,0.693955045
+sensitivity_no_nitrate,B2 source and season,S1465,2024,1,0.693955045
+sensitivity_no_nitrate,B2 source and season,S1466,2024,0,0.5132409611
+sensitivity_no_nitrate,B2 source and season,S1467,2024,0,0.5132409611
+sensitivity_no_nitrate,B2 source and season,S1468,2024,0,0.693955045
+sensitivity_no_nitrate,B2 source and season,S1469,2024,0,0.693955045
+sensitivity_no_nitrate,B2 source and season,S1470,2024,0,0.4364933533
+sensitivity_no_nitrate,B2 source and season,S1471,2024,0,0.693955045
+sensitivity_no_nitrate,B2 source and season,S1472,2024,1,0.5132409611
+sensitivity_no_nitrate,B2 source and season,S1473,2024,0,0.6512691104
+sensitivity_no_nitrate,B2 source and season,S1474,2024,1,0.4364933533
+sensitivity_no_nitrate,B2 source and season,S1475,2024,1,0.4364933533
+sensitivity_no_nitrate,B2 source and season,S1752,2024,0,0.693955045
+sensitivity_no_nitrate,B2 source and season,S1753,2024,1,0.6512691104
+sensitivity_no_nitrate,B2 source and season,S1754,2024,1,0.4364933533
+sensitivity_no_nitrate,B2 source and season,S1755,2024,0,0.693955045
+sensitivity_no_nitrate,B2 source and season,S1756,2024,1,0.6512691104
+sensitivity_no_nitrate,B2 source and season,S1757,2024,0,0.5132409611
+sensitivity_no_nitrate,B2 source and season,S1758,2024,0,0.5132409611
+sensitivity_no_nitrate,B2 source and season,S1759,2024,1,0.693955045
+sensitivity_no_nitrate,B2 source and season,S1760,2024,1,0.693955045
+sensitivity_no_nitrate,B2 source and season,S1761,2024,1,0.5132409611
+sensitivity_no_nitrate,B2 source and season,S1762,2024,1,0.5132409611
+sensitivity_no_nitrate,B2 source and season,S1763,2024,1,0.693955045
+sensitivity_no_nitrate,B2 source and season,S1764,2024,0,0.693955045
+sensitivity_no_nitrate,B2 source and season,S1765,2024,0,0.4364933533
+sensitivity_no_nitrate,B2 source and season,S1766,2024,1,0.693955045
+sensitivity_no_nitrate,B2 source and season,S1767,2024,1,0.5132409611
+sensitivity_no_nitrate,B2 source and season,S1768,2024,1,0.6512691104
+sensitivity_no_nitrate,B2 source and season,S1769,2024,1,0.4364933533
+sensitivity_no_nitrate,B2 source and season,S1770,2024,0,0.4364933533
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S0867,2024,1,0.9191125041
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S0868,2024,1,0.8896265018
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S0869,2024,1,0.772433926
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S0870,2024,1,0.9006155074
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S0871,2024,0,0.8868138504
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S0872,2024,1,0.8050546268
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S0873,2024,1,0.8760874284
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S0874,2024,1,0.9209185047
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S0875,2024,1,0.9284052813
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S0876,2024,1,0.8352954213
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S0877,2024,0,0.8184151578
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S0878,2024,1,0.8868865073
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S0879,2024,1,0.9178517415
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S0880,2024,1,0.8289291265
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S0881,2024,1,0.8976798056
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S0882,2024,1,0.8324606397
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S0883,2024,1,0.9254365159
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S0884,2024,0,0.7607034521
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S0885,2024,1,0.7532627784
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1162,2024,1,0.9316607679
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1163,2024,1,0.8740267952
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1164,2024,1,0.7460581622
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1165,2024,1,0.8705329892
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1166,2024,1,0.8807102451
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1167,2024,1,0.7576917765
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1168,2024,1,0.8116610438
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1169,2024,1,0.8815195895
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1170,2024,1,0.9000209753
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1171,2024,1,0.8314886916
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1172,2024,1,0.8164906876
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1173,2024,0,0.8832438672
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1174,2024,1,0.9014238749
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1175,2024,0,0.7254228638
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1176,2024,1,0.8769045634
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1177,2024,1,0.7766964511
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1178,2024,1,0.8452421061
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1179,2024,1,0.8085542629
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1180,2024,0,0.716394791
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1457,2024,1,0.6841440374
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1458,2024,0,0.6914304272
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1459,2024,1,0.4287305257
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1460,2024,0,0.6936446908
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1461,2024,1,0.6333055627
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1462,2024,1,0.5713592855
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1463,2024,1,0.5111630561
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1464,2024,0,0.686173534
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1465,2024,1,0.6819053688
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1466,2024,0,0.5311696364
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1467,2024,0,0.4989822735
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1468,2024,0,0.7300025691
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1469,2024,0,0.6913979872
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1470,2024,0,0.4146292711
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1471,2024,0,0.7003619179
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1472,2024,1,0.5172005812
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1473,2024,0,0.7213418435
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1474,2024,1,0.4403737697
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1475,2024,1,0.4199240756
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1752,2024,0,0.6816134552
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1753,2024,1,0.6826673443
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1754,2024,1,0.4616957873
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1755,2024,0,0.7009510279
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1756,2024,1,0.6780812445
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1757,2024,0,0.5204994652
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1758,2024,0,0.4944262352
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1759,2024,1,0.694032817
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1760,2024,1,0.6849498515
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1761,2024,1,0.6388257435
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1762,2024,1,0.5102392789
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1763,2024,1,0.7900117789
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1764,2024,0,0.6989830842
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1765,2024,0,0.4121147594
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1766,2024,1,0.7654704133
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1767,2024,1,0.512225671
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1768,2024,1,0.6689395005
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1769,2024,1,0.4496072927
+sensitivity_no_nitrate,B3 LR plus 3 chemical predictors,S1770,2024,0,0.4147480222
+sensitivity_no_nitrate,B4 decision tree depth 3,S0867,2024,1,0.5172413793
+sensitivity_no_nitrate,B4 decision tree depth 3,S0868,2024,1,0.9259259259
+sensitivity_no_nitrate,B4 decision tree depth 3,S0869,2024,1,0.8267148014
+sensitivity_no_nitrate,B4 decision tree depth 3,S0870,2024,1,0.8267148014
+sensitivity_no_nitrate,B4 decision tree depth 3,S0871,2024,0,0.9259259259
+sensitivity_no_nitrate,B4 decision tree depth 3,S0872,2024,1,0.8267148014
+sensitivity_no_nitrate,B4 decision tree depth 3,S0873,2024,1,0.8267148014
+sensitivity_no_nitrate,B4 decision tree depth 3,S0874,2024,1,0.9259259259
+sensitivity_no_nitrate,B4 decision tree depth 3,S0875,2024,1,0.8267148014
+sensitivity_no_nitrate,B4 decision tree depth 3,S0876,2024,1,0.9259259259
+sensitivity_no_nitrate,B4 decision tree depth 3,S0877,2024,0,0.8267148014
+sensitivity_no_nitrate,B4 decision tree depth 3,S0878,2024,1,0.8267148014
+sensitivity_no_nitrate,B4 decision tree depth 3,S0879,2024,1,0.9259259259
+sensitivity_no_nitrate,B4 decision tree depth 3,S0880,2024,1,0.8267148014
+sensitivity_no_nitrate,B4 decision tree depth 3,S0881,2024,1,0.8267148014
+sensitivity_no_nitrate,B4 decision tree depth 3,S0882,2024,1,0.8267148014
+sensitivity_no_nitrate,B4 decision tree depth 3,S0883,2024,1,0.8267148014
+sensitivity_no_nitrate,B4 decision tree depth 3,S0884,2024,0,0.9259259259
+sensitivity_no_nitrate,B4 decision tree depth 3,S0885,2024,1,0.9259259259
+sensitivity_no_nitrate,B4 decision tree depth 3,S1162,2024,1,0.8267148014
+sensitivity_no_nitrate,B4 decision tree depth 3,S1163,2024,1,0.9259259259
+sensitivity_no_nitrate,B4 decision tree depth 3,S1164,2024,1,0.9259259259
+sensitivity_no_nitrate,B4 decision tree depth 3,S1165,2024,1,0.9259259259
+sensitivity_no_nitrate,B4 decision tree depth 3,S1166,2024,1,0.8267148014
+sensitivity_no_nitrate,B4 decision tree depth 3,S1167,2024,1,0.8059701493
+sensitivity_no_nitrate,B4 decision tree depth 3,S1168,2024,1,0.8059701493
+sensitivity_no_nitrate,B4 decision tree depth 3,S1169,2024,1,0.8059701493
+sensitivity_no_nitrate,B4 decision tree depth 3,S1170,2024,1,0.9259259259
+sensitivity_no_nitrate,B4 decision tree depth 3,S1171,2024,1,0.8267148014
+sensitivity_no_nitrate,B4 decision tree depth 3,S1172,2024,1,0.9259259259
+sensitivity_no_nitrate,B4 decision tree depth 3,S1173,2024,0,0.8059701493
+sensitivity_no_nitrate,B4 decision tree depth 3,S1174,2024,1,0.8059701493
+sensitivity_no_nitrate,B4 decision tree depth 3,S1175,2024,0,0.8059701493
+sensitivity_no_nitrate,B4 decision tree depth 3,S1176,2024,1,0.9259259259
+sensitivity_no_nitrate,B4 decision tree depth 3,S1177,2024,1,0.9259259259
+sensitivity_no_nitrate,B4 decision tree depth 3,S1178,2024,1,0.8267148014
+sensitivity_no_nitrate,B4 decision tree depth 3,S1179,2024,1,0.8059701493
+sensitivity_no_nitrate,B4 decision tree depth 3,S1180,2024,0,0.8059701493
+sensitivity_no_nitrate,B4 decision tree depth 3,S1457,2024,1,0.7480916031
+sensitivity_no_nitrate,B4 decision tree depth 3,S1458,2024,0,0.5592705167
+sensitivity_no_nitrate,B4 decision tree depth 3,S1459,2024,1,0.5592705167
+sensitivity_no_nitrate,B4 decision tree depth 3,S1460,2024,0,0.7480916031
+sensitivity_no_nitrate,B4 decision tree depth 3,S1461,2024,1,0.5592705167
+sensitivity_no_nitrate,B4 decision tree depth 3,S1462,2024,1,0.5592705167
+sensitivity_no_nitrate,B4 decision tree depth 3,S1463,2024,1,0.5592705167
+sensitivity_no_nitrate,B4 decision tree depth 3,S1464,2024,0,0.7480916031
+sensitivity_no_nitrate,B4 decision tree depth 3,S1465,2024,1,0.7480916031
+sensitivity_no_nitrate,B4 decision tree depth 3,S1466,2024,0,0.3711340206
+sensitivity_no_nitrate,B4 decision tree depth 3,S1467,2024,0,0.3711340206
+sensitivity_no_nitrate,B4 decision tree depth 3,S1468,2024,0,0.3711340206
+sensitivity_no_nitrate,B4 decision tree depth 3,S1469,2024,0,0.7480916031
+sensitivity_no_nitrate,B4 decision tree depth 3,S1470,2024,0,0.5592705167
+sensitivity_no_nitrate,B4 decision tree depth 3,S1471,2024,0,0.7480916031
+sensitivity_no_nitrate,B4 decision tree depth 3,S1472,2024,1,0.5592705167
+sensitivity_no_nitrate,B4 decision tree depth 3,S1473,2024,0,0.5592705167
+sensitivity_no_nitrate,B4 decision tree depth 3,S1474,2024,1,0.3711340206
+sensitivity_no_nitrate,B4 decision tree depth 3,S1475,2024,1,0.5592705167
+sensitivity_no_nitrate,B4 decision tree depth 3,S1752,2024,0,0.3711340206
+sensitivity_no_nitrate,B4 decision tree depth 3,S1753,2024,1,0.5592705167
+sensitivity_no_nitrate,B4 decision tree depth 3,S1754,2024,1,0.3711340206
+sensitivity_no_nitrate,B4 decision tree depth 3,S1755,2024,0,0.7480916031
+sensitivity_no_nitrate,B4 decision tree depth 3,S1756,2024,1,0.5592705167
+sensitivity_no_nitrate,B4 decision tree depth 3,S1757,2024,0,0.5592705167
+sensitivity_no_nitrate,B4 decision tree depth 3,S1758,2024,0,0.5592705167
+sensitivity_no_nitrate,B4 decision tree depth 3,S1759,2024,1,0.7480916031
+sensitivity_no_nitrate,B4 decision tree depth 3,S1760,2024,1,0.7480916031
+sensitivity_no_nitrate,B4 decision tree depth 3,S1761,2024,1,0.5592705167
+sensitivity_no_nitrate,B4 decision tree depth 3,S1762,2024,1,0.5592705167
+sensitivity_no_nitrate,B4 decision tree depth 3,S1763,2024,1,0.7480916031
+sensitivity_no_nitrate,B4 decision tree depth 3,S1764,2024,0,0.7480916031
+sensitivity_no_nitrate,B4 decision tree depth 3,S1765,2024,0,0.5592705167
+sensitivity_no_nitrate,B4 decision tree depth 3,S1766,2024,1,0.7480916031
+sensitivity_no_nitrate,B4 decision tree depth 3,S1767,2024,1,0.5592705167
+sensitivity_no_nitrate,B4 decision tree depth 3,S1768,2024,1,0.5592705167
+sensitivity_no_nitrate,B4 decision tree depth 3,S1769,2024,1,0.5592705167
+sensitivity_no_nitrate,B4 decision tree depth 3,S1770,2024,0,0.5592705167
+sensitivity_both_unverified,Logistic regression,S0867,2024,1,0.9336384376
+sensitivity_both_unverified,Logistic regression,S0868,2024,1,0.8817173106
+sensitivity_both_unverified,Logistic regression,S0869,2024,1,0.8627230704
+sensitivity_both_unverified,Logistic regression,S0870,2024,1,0.8657506455
+sensitivity_both_unverified,Logistic regression,S0871,2024,0,0.9259321972
+sensitivity_both_unverified,Logistic regression,S0872,2024,1,0.8370847531
+sensitivity_both_unverified,Logistic regression,S0873,2024,1,0.9024679972
+sensitivity_both_unverified,Logistic regression,S0874,2024,1,0.8945643374
+sensitivity_both_unverified,Logistic regression,S0875,2024,1,0.8985764286
+sensitivity_both_unverified,Logistic regression,S0876,2024,1,0.8483744716
+sensitivity_both_unverified,Logistic regression,S0877,2024,0,0.7865145049
+sensitivity_both_unverified,Logistic regression,S0878,2024,1,0.9150626305
+sensitivity_both_unverified,Logistic regression,S0879,2024,1,0.9419203343
+sensitivity_both_unverified,Logistic regression,S0880,2024,1,0.8461943914
+sensitivity_both_unverified,Logistic regression,S0881,2024,1,0.9052505666
+sensitivity_both_unverified,Logistic regression,S0882,2024,1,0.8200987604
+sensitivity_both_unverified,Logistic regression,S0883,2024,1,0.9452134495
+sensitivity_both_unverified,Logistic regression,S0884,2024,0,0.7918249166
+sensitivity_both_unverified,Logistic regression,S0885,2024,1,0.8099413118
+sensitivity_both_unverified,Logistic regression,S1162,2024,1,0.9504007509
+sensitivity_both_unverified,Logistic regression,S1163,2024,1,0.8306508602
+sensitivity_both_unverified,Logistic regression,S1164,2024,1,0.6847067523
+sensitivity_both_unverified,Logistic regression,S1165,2024,1,0.826097885
+sensitivity_both_unverified,Logistic regression,S1166,2024,1,0.832848863
+sensitivity_both_unverified,Logistic regression,S1167,2024,1,0.7717322153
+sensitivity_both_unverified,Logistic regression,S1168,2024,1,0.8023705829
+sensitivity_both_unverified,Logistic regression,S1169,2024,1,0.8268653612
+sensitivity_both_unverified,Logistic regression,S1170,2024,1,0.8598411828
+sensitivity_both_unverified,Logistic regression,S1171,2024,1,0.7482035187
+sensitivity_both_unverified,Logistic regression,S1172,2024,1,0.7609924541
+sensitivity_both_unverified,Logistic regression,S1173,2024,0,0.8769993672
+sensitivity_both_unverified,Logistic regression,S1174,2024,1,0.9094577384
+sensitivity_both_unverified,Logistic regression,S1175,2024,0,0.7383925392
+sensitivity_both_unverified,Logistic regression,S1176,2024,1,0.8655943069
+sensitivity_both_unverified,Logistic regression,S1177,2024,1,0.7444920331
+sensitivity_both_unverified,Logistic regression,S1178,2024,1,0.9180679502
+sensitivity_both_unverified,Logistic regression,S1179,2024,1,0.7936824496
+sensitivity_both_unverified,Logistic regression,S1180,2024,0,0.6491449993
+sensitivity_both_unverified,Logistic regression,S1457,2024,1,0.6721438464
+sensitivity_both_unverified,Logistic regression,S1458,2024,0,0.8034978255
+sensitivity_both_unverified,Logistic regression,S1459,2024,1,0.4840569386
+sensitivity_both_unverified,Logistic regression,S1460,2024,0,0.6723991629
+sensitivity_both_unverified,Logistic regression,S1461,2024,1,0.6463134503
+sensitivity_both_unverified,Logistic regression,S1462,2024,1,0.4675979318
+sensitivity_both_unverified,Logistic regression,S1463,2024,1,0.4971224016
+sensitivity_both_unverified,Logistic regression,S1464,2024,0,0.7234504347
+sensitivity_both_unverified,Logistic regression,S1465,2024,1,0.874306075
+sensitivity_both_unverified,Logistic regression,S1466,2024,0,0.5205114059
+sensitivity_both_unverified,Logistic regression,S1467,2024,0,0.5177800572
+sensitivity_both_unverified,Logistic regression,S1468,2024,0,0.7273596424
+sensitivity_both_unverified,Logistic regression,S1469,2024,0,0.5935828178
+sensitivity_both_unverified,Logistic regression,S1470,2024,0,0.499245401
+sensitivity_both_unverified,Logistic regression,S1471,2024,0,0.6751458392
+sensitivity_both_unverified,Logistic regression,S1472,2024,1,0.5274606922
+sensitivity_both_unverified,Logistic regression,S1473,2024,0,0.7391284897
+sensitivity_both_unverified,Logistic regression,S1474,2024,1,0.4716071286
+sensitivity_both_unverified,Logistic regression,S1475,2024,1,0.3951296869
+sensitivity_both_unverified,Logistic regression,S1752,2024,0,0.7628679774
+sensitivity_both_unverified,Logistic regression,S1753,2024,1,0.7906619376
+sensitivity_both_unverified,Logistic regression,S1754,2024,1,0.4524743494
+sensitivity_both_unverified,Logistic regression,S1755,2024,0,0.7336666255
+sensitivity_both_unverified,Logistic regression,S1756,2024,1,0.7074611813
+sensitivity_both_unverified,Logistic regression,S1757,2024,0,0.5645946341
+sensitivity_both_unverified,Logistic regression,S1758,2024,0,0.4803724292
+sensitivity_both_unverified,Logistic regression,S1759,2024,1,0.6246933898
+sensitivity_both_unverified,Logistic regression,S1760,2024,1,0.6829931803
+sensitivity_both_unverified,Logistic regression,S1761,2024,1,0.5726320096
+sensitivity_both_unverified,Logistic regression,S1762,2024,1,0.5148833216
+sensitivity_both_unverified,Logistic regression,S1763,2024,1,0.7656287626
+sensitivity_both_unverified,Logistic regression,S1764,2024,0,0.6638632131
+sensitivity_both_unverified,Logistic regression,S1765,2024,0,0.4082490749
+sensitivity_both_unverified,Logistic regression,S1766,2024,1,0.7861016032
+sensitivity_both_unverified,Logistic regression,S1767,2024,1,0.4997099465
+sensitivity_both_unverified,Logistic regression,S1768,2024,1,0.7459628886
+sensitivity_both_unverified,Logistic regression,S1769,2024,1,0.4992341332
+sensitivity_both_unverified,Logistic regression,S1770,2024,0,0.4166594228
+sensitivity_both_unverified,Random forest,S0867,2024,1,0.8039302288
+sensitivity_both_unverified,Random forest,S0868,2024,1,0.8637596718
+sensitivity_both_unverified,Random forest,S0869,2024,1,0.8381815122
+sensitivity_both_unverified,Random forest,S0870,2024,1,0.7703160097
+sensitivity_both_unverified,Random forest,S0871,2024,0,0.9158631556
+sensitivity_both_unverified,Random forest,S0872,2024,1,0.7700652533
+sensitivity_both_unverified,Random forest,S0873,2024,1,0.8557263831
+sensitivity_both_unverified,Random forest,S0874,2024,1,0.8385979585
+sensitivity_both_unverified,Random forest,S0875,2024,1,0.8812567758
+sensitivity_both_unverified,Random forest,S0876,2024,1,0.8569608183
+sensitivity_both_unverified,Random forest,S0877,2024,0,0.8586181138
+sensitivity_both_unverified,Random forest,S0878,2024,1,0.8391797185
+sensitivity_both_unverified,Random forest,S0879,2024,1,0.9132273118
+sensitivity_both_unverified,Random forest,S0880,2024,1,0.8790632608
+sensitivity_both_unverified,Random forest,S0881,2024,1,0.8660545049
+sensitivity_both_unverified,Random forest,S0882,2024,1,0.8227440332
+sensitivity_both_unverified,Random forest,S0883,2024,1,0.8446988776
+sensitivity_both_unverified,Random forest,S0884,2024,0,0.8520909807
+sensitivity_both_unverified,Random forest,S0885,2024,1,0.8750492388
+sensitivity_both_unverified,Random forest,S1162,2024,1,0.8116880227
+sensitivity_both_unverified,Random forest,S1163,2024,1,0.8372411913
+sensitivity_both_unverified,Random forest,S1164,2024,1,0.7927132999
+sensitivity_both_unverified,Random forest,S1165,2024,1,0.7830289505
+sensitivity_both_unverified,Random forest,S1166,2024,1,0.7610660395
+sensitivity_both_unverified,Random forest,S1167,2024,1,0.7166873798
+sensitivity_both_unverified,Random forest,S1168,2024,1,0.7647768052
+sensitivity_both_unverified,Random forest,S1169,2024,1,0.8010918347
+sensitivity_both_unverified,Random forest,S1170,2024,1,0.8599290037
+sensitivity_both_unverified,Random forest,S1171,2024,1,0.7041051796
+sensitivity_both_unverified,Random forest,S1172,2024,1,0.7645505847
+sensitivity_both_unverified,Random forest,S1173,2024,0,0.8305673479
+sensitivity_both_unverified,Random forest,S1174,2024,1,0.8104946785
+sensitivity_both_unverified,Random forest,S1175,2024,0,0.7296004753
+sensitivity_both_unverified,Random forest,S1176,2024,1,0.7761701328
+sensitivity_both_unverified,Random forest,S1177,2024,1,0.8275927746
+sensitivity_both_unverified,Random forest,S1178,2024,1,0.788559892
+sensitivity_both_unverified,Random forest,S1179,2024,1,0.8021704487
+sensitivity_both_unverified,Random forest,S1180,2024,0,0.7902363576
+sensitivity_both_unverified,Random forest,S1457,2024,1,0.5822329237
+sensitivity_both_unverified,Random forest,S1458,2024,0,0.6913279922
+sensitivity_both_unverified,Random forest,S1459,2024,1,0.6462667802
+sensitivity_both_unverified,Random forest,S1460,2024,0,0.6410225907
+sensitivity_both_unverified,Random forest,S1461,2024,1,0.5981404256
+sensitivity_both_unverified,Random forest,S1462,2024,1,0.653666097
+sensitivity_both_unverified,Random forest,S1463,2024,1,0.6513041723
+sensitivity_both_unverified,Random forest,S1464,2024,0,0.5893890629
+sensitivity_both_unverified,Random forest,S1465,2024,1,0.6766175988
+sensitivity_both_unverified,Random forest,S1466,2024,0,0.5822964987
+sensitivity_both_unverified,Random forest,S1467,2024,0,0.49514989
+sensitivity_both_unverified,Random forest,S1468,2024,0,0.645803569
+sensitivity_both_unverified,Random forest,S1469,2024,0,0.5764702196
+sensitivity_both_unverified,Random forest,S1470,2024,0,0.5617545511
+sensitivity_both_unverified,Random forest,S1471,2024,0,0.6028717289
+sensitivity_both_unverified,Random forest,S1472,2024,1,0.5609895671
+sensitivity_both_unverified,Random forest,S1473,2024,0,0.6793567489
+sensitivity_both_unverified,Random forest,S1474,2024,1,0.4888502046
+sensitivity_both_unverified,Random forest,S1475,2024,1,0.6077739556
+sensitivity_both_unverified,Random forest,S1752,2024,0,0.6384239124
+sensitivity_both_unverified,Random forest,S1753,2024,1,0.747219271
+sensitivity_both_unverified,Random forest,S1754,2024,1,0.5635512132
+sensitivity_both_unverified,Random forest,S1755,2024,0,0.6656701599
+sensitivity_both_unverified,Random forest,S1756,2024,1,0.6725155789
+sensitivity_both_unverified,Random forest,S1757,2024,0,0.6728294391
+sensitivity_both_unverified,Random forest,S1758,2024,0,0.5041667375
+sensitivity_both_unverified,Random forest,S1759,2024,1,0.552771613
+sensitivity_both_unverified,Random forest,S1760,2024,1,0.5425307303
+sensitivity_both_unverified,Random forest,S1761,2024,1,0.5722601945
+sensitivity_both_unverified,Random forest,S1762,2024,1,0.621614688
+sensitivity_both_unverified,Random forest,S1763,2024,1,0.6304628112
+sensitivity_both_unverified,Random forest,S1764,2024,0,0.6157638575
+sensitivity_both_unverified,Random forest,S1765,2024,0,0.6438395925
+sensitivity_both_unverified,Random forest,S1766,2024,1,0.8175244622
+sensitivity_both_unverified,Random forest,S1767,2024,1,0.5727710606
+sensitivity_both_unverified,Random forest,S1768,2024,1,0.6535993669
+sensitivity_both_unverified,Random forest,S1769,2024,1,0.7123514459
+sensitivity_both_unverified,Random forest,S1770,2024,0,0.5001604867
+sensitivity_both_unverified,XGBoost,S0867,2024,1,0.8372468352
+sensitivity_both_unverified,XGBoost,S0868,2024,1,0.8848802447
+sensitivity_both_unverified,XGBoost,S0869,2024,1,0.8717010021
+sensitivity_both_unverified,XGBoost,S0870,2024,1,0.7596737146
+sensitivity_both_unverified,XGBoost,S0871,2024,0,0.9376464486
+sensitivity_both_unverified,XGBoost,S0872,2024,1,0.8094180822
+sensitivity_both_unverified,XGBoost,S0873,2024,1,0.8322469592
+sensitivity_both_unverified,XGBoost,S0874,2024,1,0.8889520168
+sensitivity_both_unverified,XGBoost,S0875,2024,1,0.9082877636
+sensitivity_both_unverified,XGBoost,S0876,2024,1,0.8744267821
+sensitivity_both_unverified,XGBoost,S0877,2024,0,0.8508124948
+sensitivity_both_unverified,XGBoost,S0878,2024,1,0.8864488006
+sensitivity_both_unverified,XGBoost,S0879,2024,1,0.9292072654
+sensitivity_both_unverified,XGBoost,S0880,2024,1,0.8743926287
+sensitivity_both_unverified,XGBoost,S0881,2024,1,0.8827642202
+sensitivity_both_unverified,XGBoost,S0882,2024,1,0.795365274
+sensitivity_both_unverified,XGBoost,S0883,2024,1,0.8603909612
+sensitivity_both_unverified,XGBoost,S0884,2024,0,0.8531282544
+sensitivity_both_unverified,XGBoost,S0885,2024,1,0.8644791842
+sensitivity_both_unverified,XGBoost,S1162,2024,1,0.9050477743
+sensitivity_both_unverified,XGBoost,S1163,2024,1,0.8444036245
+sensitivity_both_unverified,XGBoost,S1164,2024,1,0.7876850367
+sensitivity_both_unverified,XGBoost,S1165,2024,1,0.8759138584
+sensitivity_both_unverified,XGBoost,S1166,2024,1,0.8281000257
+sensitivity_both_unverified,XGBoost,S1167,2024,1,0.6976153255
+sensitivity_both_unverified,XGBoost,S1168,2024,1,0.7200986147
+sensitivity_both_unverified,XGBoost,S1169,2024,1,0.8035328388
+sensitivity_both_unverified,XGBoost,S1170,2024,1,0.8718469739
+sensitivity_both_unverified,XGBoost,S1171,2024,1,0.6942725778
+sensitivity_both_unverified,XGBoost,S1172,2024,1,0.7440005541
+sensitivity_both_unverified,XGBoost,S1173,2024,0,0.7589709759
+sensitivity_both_unverified,XGBoost,S1174,2024,1,0.7930878401
+sensitivity_both_unverified,XGBoost,S1175,2024,0,0.6999041438
+sensitivity_both_unverified,XGBoost,S1176,2024,1,0.8160694242
+sensitivity_both_unverified,XGBoost,S1177,2024,1,0.7894233465
+sensitivity_both_unverified,XGBoost,S1178,2024,1,0.8709167242
+sensitivity_both_unverified,XGBoost,S1179,2024,1,0.7634760141
+sensitivity_both_unverified,XGBoost,S1180,2024,0,0.7057458758
+sensitivity_both_unverified,XGBoost,S1457,2024,1,0.5604757071
+sensitivity_both_unverified,XGBoost,S1458,2024,0,0.7423613667
+sensitivity_both_unverified,XGBoost,S1459,2024,1,0.5548419952
+sensitivity_both_unverified,XGBoost,S1460,2024,0,0.6680945754
+sensitivity_both_unverified,XGBoost,S1461,2024,1,0.5962873101
+sensitivity_both_unverified,XGBoost,S1462,2024,1,0.6384512186
+sensitivity_both_unverified,XGBoost,S1463,2024,1,0.6030578017
+sensitivity_both_unverified,XGBoost,S1464,2024,0,0.7028689981
+sensitivity_both_unverified,XGBoost,S1465,2024,1,0.7588415742
+sensitivity_both_unverified,XGBoost,S1466,2024,0,0.5824064016
+sensitivity_both_unverified,XGBoost,S1467,2024,0,0.4610798359
+sensitivity_both_unverified,XGBoost,S1468,2024,0,0.6773601174
+sensitivity_both_unverified,XGBoost,S1469,2024,0,0.6428589225
+sensitivity_both_unverified,XGBoost,S1470,2024,0,0.4823555648
+sensitivity_both_unverified,XGBoost,S1471,2024,0,0.6675435305
+sensitivity_both_unverified,XGBoost,S1472,2024,1,0.5492459536
+sensitivity_both_unverified,XGBoost,S1473,2024,0,0.7467720509
+sensitivity_both_unverified,XGBoost,S1474,2024,1,0.5041597486
+sensitivity_both_unverified,XGBoost,S1475,2024,1,0.6101312041
+sensitivity_both_unverified,XGBoost,S1752,2024,0,0.6196449995
+sensitivity_both_unverified,XGBoost,S1753,2024,1,0.8331530094
+sensitivity_both_unverified,XGBoost,S1754,2024,1,0.5565045476
+sensitivity_both_unverified,XGBoost,S1755,2024,0,0.6903492212
+sensitivity_both_unverified,XGBoost,S1756,2024,1,0.7313936353
+sensitivity_both_unverified,XGBoost,S1757,2024,0,0.569824636
+sensitivity_both_unverified,XGBoost,S1758,2024,0,0.3747905195
+sensitivity_both_unverified,XGBoost,S1759,2024,1,0.6264531016
+sensitivity_both_unverified,XGBoost,S1760,2024,1,0.629103303
+sensitivity_both_unverified,XGBoost,S1761,2024,1,0.6147918105
+sensitivity_both_unverified,XGBoost,S1762,2024,1,0.5616502166
+sensitivity_both_unverified,XGBoost,S1763,2024,1,0.7461980581
+sensitivity_both_unverified,XGBoost,S1764,2024,0,0.6455006599
+sensitivity_both_unverified,XGBoost,S1765,2024,0,0.5766227245
+sensitivity_both_unverified,XGBoost,S1766,2024,1,0.8863530159
+sensitivity_both_unverified,XGBoost,S1767,2024,1,0.5502290726
+sensitivity_both_unverified,XGBoost,S1768,2024,1,0.6097373962
+sensitivity_both_unverified,XGBoost,S1769,2024,1,0.6011354327
+sensitivity_both_unverified,XGBoost,S1770,2024,0,0.3763561249
+sensitivity_both_unverified,SVM (RBF),S0867,2024,1,0.796824287
+sensitivity_both_unverified,SVM (RBF),S0868,2024,1,0.8335829301
+sensitivity_both_unverified,SVM (RBF),S0869,2024,1,0.7997026621
+sensitivity_both_unverified,SVM (RBF),S0870,2024,1,0.7762452875
+sensitivity_both_unverified,SVM (RBF),S0871,2024,0,0.816587392
+sensitivity_both_unverified,SVM (RBF),S0872,2024,1,0.818463689
+sensitivity_both_unverified,SVM (RBF),S0873,2024,1,0.7550913626
+sensitivity_both_unverified,SVM (RBF),S0874,2024,1,0.7527818645
+sensitivity_both_unverified,SVM (RBF),S0875,2024,1,0.7868799505
+sensitivity_both_unverified,SVM (RBF),S0876,2024,1,0.8108167525
+sensitivity_both_unverified,SVM (RBF),S0877,2024,0,0.7562619539
+sensitivity_both_unverified,SVM (RBF),S0878,2024,1,0.7731593873
+sensitivity_both_unverified,SVM (RBF),S0879,2024,1,0.8156356278
+sensitivity_both_unverified,SVM (RBF),S0880,2024,1,0.7752873917
+sensitivity_both_unverified,SVM (RBF),S0881,2024,1,0.7951855371
+sensitivity_both_unverified,SVM (RBF),S0882,2024,1,0.7957427636
+sensitivity_both_unverified,SVM (RBF),S0883,2024,1,0.7550673456
+sensitivity_both_unverified,SVM (RBF),S0884,2024,0,0.7644169088
+sensitivity_both_unverified,SVM (RBF),S0885,2024,1,0.79449275
+sensitivity_both_unverified,SVM (RBF),S1162,2024,1,0.7686337642
+sensitivity_both_unverified,SVM (RBF),S1163,2024,1,0.8125229792
+sensitivity_both_unverified,SVM (RBF),S1164,2024,1,0.791668451
+sensitivity_both_unverified,SVM (RBF),S1165,2024,1,0.8117590264
+sensitivity_both_unverified,SVM (RBF),S1166,2024,1,0.7155996829
+sensitivity_both_unverified,SVM (RBF),S1167,2024,1,0.7009180889
+sensitivity_both_unverified,SVM (RBF),S1168,2024,1,0.6739240125
+sensitivity_both_unverified,SVM (RBF),S1169,2024,1,0.8327904056
+sensitivity_both_unverified,SVM (RBF),S1170,2024,1,0.8091702604
+sensitivity_both_unverified,SVM (RBF),S1171,2024,1,0.7657102143
+sensitivity_both_unverified,SVM (RBF),S1172,2024,1,0.6480227325
+sensitivity_both_unverified,SVM (RBF),S1173,2024,0,0.8114384948
+sensitivity_both_unverified,SVM (RBF),S1174,2024,1,0.7915530147
+sensitivity_both_unverified,SVM (RBF),S1175,2024,0,0.7545760159
+sensitivity_both_unverified,SVM (RBF),S1176,2024,1,0.7627833777
+sensitivity_both_unverified,SVM (RBF),S1177,2024,1,0.7149677692
+sensitivity_both_unverified,SVM (RBF),S1178,2024,1,0.8180650925
+sensitivity_both_unverified,SVM (RBF),S1179,2024,1,0.7742855304
+sensitivity_both_unverified,SVM (RBF),S1180,2024,0,0.8307326681
+sensitivity_both_unverified,SVM (RBF),S1457,2024,1,0.6138174595
+sensitivity_both_unverified,SVM (RBF),S1458,2024,0,0.8044373072
+sensitivity_both_unverified,SVM (RBF),S1459,2024,1,0.6111869517
+sensitivity_both_unverified,SVM (RBF),S1460,2024,0,0.7925553166
+sensitivity_both_unverified,SVM (RBF),S1461,2024,1,0.7288368582
+sensitivity_both_unverified,SVM (RBF),S1462,2024,1,0.6305305771
+sensitivity_both_unverified,SVM (RBF),S1463,2024,1,0.6592969603
+sensitivity_both_unverified,SVM (RBF),S1464,2024,0,0.7256193186
+sensitivity_both_unverified,SVM (RBF),S1465,2024,1,0.8688552355
+sensitivity_both_unverified,SVM (RBF),S1466,2024,0,0.7628018161
+sensitivity_both_unverified,SVM (RBF),S1467,2024,0,0.7764822378
+sensitivity_both_unverified,SVM (RBF),S1468,2024,0,0.6299071941
+sensitivity_both_unverified,SVM (RBF),S1469,2024,0,0.7846122521
+sensitivity_both_unverified,SVM (RBF),S1470,2024,0,0.4436081948
+sensitivity_both_unverified,SVM (RBF),S1471,2024,0,0.7901869205
+sensitivity_both_unverified,SVM (RBF),S1472,2024,1,0.7442407197
+sensitivity_both_unverified,SVM (RBF),S1473,2024,0,0.7704155579
+sensitivity_both_unverified,SVM (RBF),S1474,2024,1,0.2193018527
+sensitivity_both_unverified,SVM (RBF),S1475,2024,1,0.5430666086
+sensitivity_both_unverified,SVM (RBF),S1752,2024,0,0.75201111
+sensitivity_both_unverified,SVM (RBF),S1753,2024,1,0.8166760091
+sensitivity_both_unverified,SVM (RBF),S1754,2024,1,0.4926479403
+sensitivity_both_unverified,SVM (RBF),S1755,2024,0,0.7071290703
+sensitivity_both_unverified,SVM (RBF),S1756,2024,1,0.7328210887
+sensitivity_both_unverified,SVM (RBF),S1757,2024,0,0.797924112
+sensitivity_both_unverified,SVM (RBF),S1758,2024,0,0.5349737198
+sensitivity_both_unverified,SVM (RBF),S1759,2024,1,0.6410617963
+sensitivity_both_unverified,SVM (RBF),S1760,2024,1,0.5337391002
+sensitivity_both_unverified,SVM (RBF),S1761,2024,1,0.6990414061
+sensitivity_both_unverified,SVM (RBF),S1762,2024,1,0.5612911936
+sensitivity_both_unverified,SVM (RBF),S1763,2024,1,0.6753967832
+sensitivity_both_unverified,SVM (RBF),S1764,2024,0,0.6969109516
+sensitivity_both_unverified,SVM (RBF),S1765,2024,0,0.6200147106
+sensitivity_both_unverified,SVM (RBF),S1766,2024,1,0.8423568468
+sensitivity_both_unverified,SVM (RBF),S1767,2024,1,0.5141384175
+sensitivity_both_unverified,SVM (RBF),S1768,2024,1,0.8067420668
+sensitivity_both_unverified,SVM (RBF),S1769,2024,1,0.5203653238
+sensitivity_both_unverified,SVM (RBF),S1770,2024,0,0.3387655537
+sensitivity_both_unverified,B1 source only,S0867,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S0868,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S0869,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S0870,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S0871,2024,0,0.8410419212
+sensitivity_both_unverified,B1 source only,S0872,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S0873,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S0874,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S0875,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S0876,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S0877,2024,0,0.8410419212
+sensitivity_both_unverified,B1 source only,S0878,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S0879,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S0880,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S0881,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S0882,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S0883,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S0884,2024,0,0.8410419212
+sensitivity_both_unverified,B1 source only,S0885,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S1162,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S1163,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S1164,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S1165,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S1166,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S1167,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S1168,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S1169,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S1170,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S1171,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S1172,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S1173,2024,0,0.8410419212
+sensitivity_both_unverified,B1 source only,S1174,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S1175,2024,0,0.8410419212
+sensitivity_both_unverified,B1 source only,S1176,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S1177,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S1178,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S1179,2024,1,0.8410419212
+sensitivity_both_unverified,B1 source only,S1180,2024,0,0.8410419212
+sensitivity_both_unverified,B1 source only,S1457,2024,1,0.5753520037
+sensitivity_both_unverified,B1 source only,S1458,2024,0,0.5753520037
+sensitivity_both_unverified,B1 source only,S1459,2024,1,0.5753520037
+sensitivity_both_unverified,B1 source only,S1460,2024,0,0.5753520037
+sensitivity_both_unverified,B1 source only,S1461,2024,1,0.5753520037
+sensitivity_both_unverified,B1 source only,S1462,2024,1,0.5753520037
+sensitivity_both_unverified,B1 source only,S1463,2024,1,0.5753520037
+sensitivity_both_unverified,B1 source only,S1464,2024,0,0.5753520037
+sensitivity_both_unverified,B1 source only,S1465,2024,1,0.5753520037
+sensitivity_both_unverified,B1 source only,S1466,2024,0,0.5753520037
+sensitivity_both_unverified,B1 source only,S1467,2024,0,0.5753520037
+sensitivity_both_unverified,B1 source only,S1468,2024,0,0.5753520037
+sensitivity_both_unverified,B1 source only,S1469,2024,0,0.5753520037
+sensitivity_both_unverified,B1 source only,S1470,2024,0,0.5753520037
+sensitivity_both_unverified,B1 source only,S1471,2024,0,0.5753520037
+sensitivity_both_unverified,B1 source only,S1472,2024,1,0.5753520037
+sensitivity_both_unverified,B1 source only,S1473,2024,0,0.5753520037
+sensitivity_both_unverified,B1 source only,S1474,2024,1,0.5753520037
+sensitivity_both_unverified,B1 source only,S1475,2024,1,0.5753520037
+sensitivity_both_unverified,B1 source only,S1752,2024,0,0.5753520037
+sensitivity_both_unverified,B1 source only,S1753,2024,1,0.5753520037
+sensitivity_both_unverified,B1 source only,S1754,2024,1,0.5753520037
+sensitivity_both_unverified,B1 source only,S1755,2024,0,0.5753520037
+sensitivity_both_unverified,B1 source only,S1756,2024,1,0.5753520037
+sensitivity_both_unverified,B1 source only,S1757,2024,0,0.5753520037
+sensitivity_both_unverified,B1 source only,S1758,2024,0,0.5753520037
+sensitivity_both_unverified,B1 source only,S1759,2024,1,0.5753520037
+sensitivity_both_unverified,B1 source only,S1760,2024,1,0.5753520037
+sensitivity_both_unverified,B1 source only,S1761,2024,1,0.5753520037
+sensitivity_both_unverified,B1 source only,S1762,2024,1,0.5753520037
+sensitivity_both_unverified,B1 source only,S1763,2024,1,0.5753520037
+sensitivity_both_unverified,B1 source only,S1764,2024,0,0.5753520037
+sensitivity_both_unverified,B1 source only,S1765,2024,0,0.5753520037
+sensitivity_both_unverified,B1 source only,S1766,2024,1,0.5753520037
+sensitivity_both_unverified,B1 source only,S1767,2024,1,0.5753520037
+sensitivity_both_unverified,B1 source only,S1768,2024,1,0.5753520037
+sensitivity_both_unverified,B1 source only,S1769,2024,1,0.5753520037
+sensitivity_both_unverified,B1 source only,S1770,2024,0,0.5753520037
+sensitivity_both_unverified,B2 source and season,S0867,2024,1,0.9027023451
+sensitivity_both_unverified,B2 source and season,S0868,2024,1,0.8842764114
+sensitivity_both_unverified,B2 source and season,S0869,2024,1,0.760156339
+sensitivity_both_unverified,B2 source and season,S0870,2024,1,0.9027023451
+sensitivity_both_unverified,B2 source and season,S0871,2024,0,0.8842764114
+sensitivity_both_unverified,B2 source and season,S0872,2024,1,0.8118260107
+sensitivity_both_unverified,B2 source and season,S0873,2024,1,0.8118260107
+sensitivity_both_unverified,B2 source and season,S0874,2024,1,0.9027023451
+sensitivity_both_unverified,B2 source and season,S0875,2024,1,0.9027023451
+sensitivity_both_unverified,B2 source and season,S0876,2024,1,0.8118260107
+sensitivity_both_unverified,B2 source and season,S0877,2024,0,0.8118260107
+sensitivity_both_unverified,B2 source and season,S0878,2024,1,0.9027023451
+sensitivity_both_unverified,B2 source and season,S0879,2024,1,0.9027023451
+sensitivity_both_unverified,B2 source and season,S0880,2024,1,0.760156339
+sensitivity_both_unverified,B2 source and season,S0881,2024,1,0.9027023451
+sensitivity_both_unverified,B2 source and season,S0882,2024,1,0.8118260107
+sensitivity_both_unverified,B2 source and season,S0883,2024,1,0.8842764114
+sensitivity_both_unverified,B2 source and season,S0884,2024,0,0.760156339
+sensitivity_both_unverified,B2 source and season,S0885,2024,1,0.760156339
+sensitivity_both_unverified,B2 source and season,S1162,2024,1,0.9027023451
+sensitivity_both_unverified,B2 source and season,S1163,2024,1,0.8842764114
+sensitivity_both_unverified,B2 source and season,S1164,2024,1,0.760156339
+sensitivity_both_unverified,B2 source and season,S1165,2024,1,0.9027023451
+sensitivity_both_unverified,B2 source and season,S1166,2024,1,0.8842764114
+sensitivity_both_unverified,B2 source and season,S1167,2024,1,0.8118260107
+sensitivity_both_unverified,B2 source and season,S1168,2024,1,0.8118260107
+sensitivity_both_unverified,B2 source and season,S1169,2024,1,0.9027023451
+sensitivity_both_unverified,B2 source and season,S1170,2024,1,0.9027023451
+sensitivity_both_unverified,B2 source and season,S1171,2024,1,0.8118260107
+sensitivity_both_unverified,B2 source and season,S1172,2024,1,0.8118260107
+sensitivity_both_unverified,B2 source and season,S1173,2024,0,0.9027023451
+sensitivity_both_unverified,B2 source and season,S1174,2024,1,0.9027023451
+sensitivity_both_unverified,B2 source and season,S1175,2024,0,0.760156339
+sensitivity_both_unverified,B2 source and season,S1176,2024,1,0.9027023451
+sensitivity_both_unverified,B2 source and season,S1177,2024,1,0.8118260107
+sensitivity_both_unverified,B2 source and season,S1178,2024,1,0.8842764114
+sensitivity_both_unverified,B2 source and season,S1179,2024,1,0.760156339
+sensitivity_both_unverified,B2 source and season,S1180,2024,0,0.760156339
+sensitivity_both_unverified,B2 source and season,S1457,2024,1,0.693955045
+sensitivity_both_unverified,B2 source and season,S1458,2024,0,0.6512691104
+sensitivity_both_unverified,B2 source and season,S1459,2024,1,0.4364933533
+sensitivity_both_unverified,B2 source and season,S1460,2024,0,0.693955045
+sensitivity_both_unverified,B2 source and season,S1461,2024,1,0.6512691104
+sensitivity_both_unverified,B2 source and season,S1462,2024,1,0.5132409611
+sensitivity_both_unverified,B2 source and season,S1463,2024,1,0.5132409611
+sensitivity_both_unverified,B2 source and season,S1464,2024,0,0.693955045
+sensitivity_both_unverified,B2 source and season,S1465,2024,1,0.693955045
+sensitivity_both_unverified,B2 source and season,S1466,2024,0,0.5132409611
+sensitivity_both_unverified,B2 source and season,S1467,2024,0,0.5132409611
+sensitivity_both_unverified,B2 source and season,S1468,2024,0,0.693955045
+sensitivity_both_unverified,B2 source and season,S1469,2024,0,0.693955045
+sensitivity_both_unverified,B2 source and season,S1470,2024,0,0.4364933533
+sensitivity_both_unverified,B2 source and season,S1471,2024,0,0.693955045
+sensitivity_both_unverified,B2 source and season,S1472,2024,1,0.5132409611
+sensitivity_both_unverified,B2 source and season,S1473,2024,0,0.6512691104
+sensitivity_both_unverified,B2 source and season,S1474,2024,1,0.4364933533
+sensitivity_both_unverified,B2 source and season,S1475,2024,1,0.4364933533
+sensitivity_both_unverified,B2 source and season,S1752,2024,0,0.693955045
+sensitivity_both_unverified,B2 source and season,S1753,2024,1,0.6512691104
+sensitivity_both_unverified,B2 source and season,S1754,2024,1,0.4364933533
+sensitivity_both_unverified,B2 source and season,S1755,2024,0,0.693955045
+sensitivity_both_unverified,B2 source and season,S1756,2024,1,0.6512691104
+sensitivity_both_unverified,B2 source and season,S1757,2024,0,0.5132409611
+sensitivity_both_unverified,B2 source and season,S1758,2024,0,0.5132409611
+sensitivity_both_unverified,B2 source and season,S1759,2024,1,0.693955045
+sensitivity_both_unverified,B2 source and season,S1760,2024,1,0.693955045
+sensitivity_both_unverified,B2 source and season,S1761,2024,1,0.5132409611
+sensitivity_both_unverified,B2 source and season,S1762,2024,1,0.5132409611
+sensitivity_both_unverified,B2 source and season,S1763,2024,1,0.693955045
+sensitivity_both_unverified,B2 source and season,S1764,2024,0,0.693955045
+sensitivity_both_unverified,B2 source and season,S1765,2024,0,0.4364933533
+sensitivity_both_unverified,B2 source and season,S1766,2024,1,0.693955045
+sensitivity_both_unverified,B2 source and season,S1767,2024,1,0.5132409611
+sensitivity_both_unverified,B2 source and season,S1768,2024,1,0.6512691104
+sensitivity_both_unverified,B2 source and season,S1769,2024,1,0.4364933533
+sensitivity_both_unverified,B2 source and season,S1770,2024,0,0.4364933533
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S0867,2024,1,0.9191125041
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S0868,2024,1,0.8896265018
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S0869,2024,1,0.772433926
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S0870,2024,1,0.9006155074
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S0871,2024,0,0.8868138504
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S0872,2024,1,0.8050546268
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S0873,2024,1,0.8760874284
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S0874,2024,1,0.9209185047
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S0875,2024,1,0.9284052813
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S0876,2024,1,0.8352954213
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S0877,2024,0,0.8184151578
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S0878,2024,1,0.8868865073
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S0879,2024,1,0.9178517415
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S0880,2024,1,0.8289291265
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S0881,2024,1,0.8976798056
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S0882,2024,1,0.8324606397
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S0883,2024,1,0.9254365159
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S0884,2024,0,0.7607034521
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S0885,2024,1,0.7532627784
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1162,2024,1,0.9316607679
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1163,2024,1,0.8740267952
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1164,2024,1,0.7460581622
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1165,2024,1,0.8705329892
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1166,2024,1,0.8807102451
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1167,2024,1,0.7576917765
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1168,2024,1,0.8116610438
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1169,2024,1,0.8815195895
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1170,2024,1,0.9000209753
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1171,2024,1,0.8314886916
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1172,2024,1,0.8164906876
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1173,2024,0,0.8832438672
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1174,2024,1,0.9014238749
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1175,2024,0,0.7254228638
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1176,2024,1,0.8769045634
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1177,2024,1,0.7766964511
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1178,2024,1,0.8452421061
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1179,2024,1,0.8085542629
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1180,2024,0,0.716394791
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1457,2024,1,0.6841440374
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1458,2024,0,0.6914304272
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1459,2024,1,0.4287305257
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1460,2024,0,0.6936446908
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1461,2024,1,0.6333055627
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1462,2024,1,0.5713592855
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1463,2024,1,0.5111630561
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1464,2024,0,0.686173534
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1465,2024,1,0.6819053688
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1466,2024,0,0.5311696364
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1467,2024,0,0.4989822735
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1468,2024,0,0.7300025691
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1469,2024,0,0.6913979872
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1470,2024,0,0.4146292711
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1471,2024,0,0.7003619179
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1472,2024,1,0.5172005812
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1473,2024,0,0.7213418435
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1474,2024,1,0.4403737697
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1475,2024,1,0.4199240756
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1752,2024,0,0.6816134552
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1753,2024,1,0.6826673443
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1754,2024,1,0.4616957873
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1755,2024,0,0.7009510279
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1756,2024,1,0.6780812445
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1757,2024,0,0.5204994652
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1758,2024,0,0.4944262352
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1759,2024,1,0.694032817
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1760,2024,1,0.6849498515
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1761,2024,1,0.6388257435
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1762,2024,1,0.5102392789
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1763,2024,1,0.7900117789
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1764,2024,0,0.6989830842
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1765,2024,0,0.4121147594
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1766,2024,1,0.7654704133
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1767,2024,1,0.512225671
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1768,2024,1,0.6689395005
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1769,2024,1,0.4496072927
+sensitivity_both_unverified,B3 LR plus 3 chemical predictors,S1770,2024,0,0.4147480222
+sensitivity_both_unverified,B4 decision tree depth 3,S0867,2024,1,0.5172413793
+sensitivity_both_unverified,B4 decision tree depth 3,S0868,2024,1,0.9259259259
+sensitivity_both_unverified,B4 decision tree depth 3,S0869,2024,1,0.8267148014
+sensitivity_both_unverified,B4 decision tree depth 3,S0870,2024,1,0.8267148014
+sensitivity_both_unverified,B4 decision tree depth 3,S0871,2024,0,0.9259259259
+sensitivity_both_unverified,B4 decision tree depth 3,S0872,2024,1,0.8267148014
+sensitivity_both_unverified,B4 decision tree depth 3,S0873,2024,1,0.8267148014
+sensitivity_both_unverified,B4 decision tree depth 3,S0874,2024,1,0.9259259259
+sensitivity_both_unverified,B4 decision tree depth 3,S0875,2024,1,0.8267148014
+sensitivity_both_unverified,B4 decision tree depth 3,S0876,2024,1,0.9259259259
+sensitivity_both_unverified,B4 decision tree depth 3,S0877,2024,0,0.8267148014
+sensitivity_both_unverified,B4 decision tree depth 3,S0878,2024,1,0.8267148014
+sensitivity_both_unverified,B4 decision tree depth 3,S0879,2024,1,0.9259259259
+sensitivity_both_unverified,B4 decision tree depth 3,S0880,2024,1,0.8267148014
+sensitivity_both_unverified,B4 decision tree depth 3,S0881,2024,1,0.8267148014
+sensitivity_both_unverified,B4 decision tree depth 3,S0882,2024,1,0.8267148014
+sensitivity_both_unverified,B4 decision tree depth 3,S0883,2024,1,0.8267148014
+sensitivity_both_unverified,B4 decision tree depth 3,S0884,2024,0,0.9259259259
+sensitivity_both_unverified,B4 decision tree depth 3,S0885,2024,1,0.9259259259
+sensitivity_both_unverified,B4 decision tree depth 3,S1162,2024,1,0.8267148014
+sensitivity_both_unverified,B4 decision tree depth 3,S1163,2024,1,0.9259259259
+sensitivity_both_unverified,B4 decision tree depth 3,S1164,2024,1,0.9259259259
+sensitivity_both_unverified,B4 decision tree depth 3,S1165,2024,1,0.9259259259
+sensitivity_both_unverified,B4 decision tree depth 3,S1166,2024,1,0.8267148014
+sensitivity_both_unverified,B4 decision tree depth 3,S1167,2024,1,0.8059701493
+sensitivity_both_unverified,B4 decision tree depth 3,S1168,2024,1,0.8059701493
+sensitivity_both_unverified,B4 decision tree depth 3,S1169,2024,1,0.8059701493
+sensitivity_both_unverified,B4 decision tree depth 3,S1170,2024,1,0.9259259259
+sensitivity_both_unverified,B4 decision tree depth 3,S1171,2024,1,0.8267148014
+sensitivity_both_unverified,B4 decision tree depth 3,S1172,2024,1,0.9259259259
+sensitivity_both_unverified,B4 decision tree depth 3,S1173,2024,0,0.8059701493
+sensitivity_both_unverified,B4 decision tree depth 3,S1174,2024,1,0.8059701493
+sensitivity_both_unverified,B4 decision tree depth 3,S1175,2024,0,0.8059701493
+sensitivity_both_unverified,B4 decision tree depth 3,S1176,2024,1,0.9259259259
+sensitivity_both_unverified,B4 decision tree depth 3,S1177,2024,1,0.9259259259
+sensitivity_both_unverified,B4 decision tree depth 3,S1178,2024,1,0.8267148014
+sensitivity_both_unverified,B4 decision tree depth 3,S1179,2024,1,0.8059701493
+sensitivity_both_unverified,B4 decision tree depth 3,S1180,2024,0,0.8059701493
+sensitivity_both_unverified,B4 decision tree depth 3,S1457,2024,1,0.7480916031
+sensitivity_both_unverified,B4 decision tree depth 3,S1458,2024,0,0.5592705167
+sensitivity_both_unverified,B4 decision tree depth 3,S1459,2024,1,0.5592705167
+sensitivity_both_unverified,B4 decision tree depth 3,S1460,2024,0,0.7480916031
+sensitivity_both_unverified,B4 decision tree depth 3,S1461,2024,1,0.5592705167
+sensitivity_both_unverified,B4 decision tree depth 3,S1462,2024,1,0.5592705167
+sensitivity_both_unverified,B4 decision tree depth 3,S1463,2024,1,0.5592705167
+sensitivity_both_unverified,B4 decision tree depth 3,S1464,2024,0,0.7480916031
+sensitivity_both_unverified,B4 decision tree depth 3,S1465,2024,1,0.7480916031
+sensitivity_both_unverified,B4 decision tree depth 3,S1466,2024,0,0.3711340206
+sensitivity_both_unverified,B4 decision tree depth 3,S1467,2024,0,0.3711340206
+sensitivity_both_unverified,B4 decision tree depth 3,S1468,2024,0,0.3711340206
+sensitivity_both_unverified,B4 decision tree depth 3,S1469,2024,0,0.7480916031
+sensitivity_both_unverified,B4 decision tree depth 3,S1470,2024,0,0.5592705167
+sensitivity_both_unverified,B4 decision tree depth 3,S1471,2024,0,0.7480916031
+sensitivity_both_unverified,B4 decision tree depth 3,S1472,2024,1,0.5592705167
+sensitivity_both_unverified,B4 decision tree depth 3,S1473,2024,0,0.5592705167
+sensitivity_both_unverified,B4 decision tree depth 3,S1474,2024,1,0.3711340206
+sensitivity_both_unverified,B4 decision tree depth 3,S1475,2024,1,0.5592705167
+sensitivity_both_unverified,B4 decision tree depth 3,S1752,2024,0,0.3711340206
+sensitivity_both_unverified,B4 decision tree depth 3,S1753,2024,1,0.5592705167
+sensitivity_both_unverified,B4 decision tree depth 3,S1754,2024,1,0.3711340206
+sensitivity_both_unverified,B4 decision tree depth 3,S1755,2024,0,0.7480916031
+sensitivity_both_unverified,B4 decision tree depth 3,S1756,2024,1,0.5592705167
+sensitivity_both_unverified,B4 decision tree depth 3,S1757,2024,0,0.5592705167
+sensitivity_both_unverified,B4 decision tree depth 3,S1758,2024,0,0.5592705167
+sensitivity_both_unverified,B4 decision tree depth 3,S1759,2024,1,0.7480916031
+sensitivity_both_unverified,B4 decision tree depth 3,S1760,2024,1,0.7480916031
+sensitivity_both_unverified,B4 decision tree depth 3,S1761,2024,1,0.5592705167
+sensitivity_both_unverified,B4 decision tree depth 3,S1762,2024,1,0.5592705167
+sensitivity_both_unverified,B4 decision tree depth 3,S1763,2024,1,0.7480916031
+sensitivity_both_unverified,B4 decision tree depth 3,S1764,2024,0,0.7480916031
+sensitivity_both_unverified,B4 decision tree depth 3,S1765,2024,0,0.5592705167
+sensitivity_both_unverified,B4 decision tree depth 3,S1766,2024,1,0.7480916031
+sensitivity_both_unverified,B4 decision tree depth 3,S1767,2024,1,0.5592705167
+sensitivity_both_unverified,B4 decision tree depth 3,S1768,2024,1,0.5592705167
+sensitivity_both_unverified,B4 decision tree depth 3,S1769,2024,1,0.5592705167
+sensitivity_both_unverified,B4 decision tree depth 3,S1770,2024,0,0.5592705167
