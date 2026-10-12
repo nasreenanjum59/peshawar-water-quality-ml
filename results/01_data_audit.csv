@@ -1,0 +1,16 @@
+check,value,caution
+total_rows,1800,not an error count
+missing_cells,0,
+duplicate_sample_ids,0,
+ml_rows_tap_and_tube_well,1200,
+Ecoli_positive_ml,849,
+COD_censored_total,237,
+DO_supersaturated_total,183,
+TN_below_inorganic_flag_total,49,
+DO_or_TN_flag_ml,156,
+TN_below_as_reported_nitrate_total,1628,UNIT UNVERIFIED; do not infer a conversion
+TN_below_NO3_as_N_if_nitrate_ion_total,4,HYPOTHETICAL only; laboratory confirmation required
+TN_below_as_reported_nitrate_ml,1182,UNIT UNVERIFIED
+TN_below_NO3_as_N_if_nitrate_ion_ml,4,HYPOTHETICAL only
+TDS_to_EC_outside_typical_band_total,9,
+Temperature_exactly_25_total,48,check with laboratory
