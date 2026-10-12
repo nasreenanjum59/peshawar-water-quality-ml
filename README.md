@@ -34,6 +34,8 @@ They are **not** an untouched independent external validation set.
 - `docs/METHODS.md`: model definitions, analysis choices and known limitations.
 - `docs/DATA_RELEASE_CHECKLIST.md`: provenance, licensing and journal checks
   that must be resolved before publication.
+- `docs/RELEASE_READINESS.md`: verified contents, public-release approval gates,
+  double-anonymised review considerations and publication steps.
 - `docs/UPLOAD_GUIDE.md`: instructions for GitHub and Zenodo deposits.
 - `data/WQ_Peshawar_2009-2024_analysis_ready.xlsx`: **included in this private
   repository only**, with 1,800 observations plus the data dictionary and analysis
@@ -61,6 +63,15 @@ For a reduced **software smoke test only**, use `--quick --permutations 0`
 and a separate output directory. Do not cite quick-mode statistics. Full
 analyses may take substantial CPU time; the `--out` directory must not
 already contain files. The script does not modify its input workbook. See `docs/VALIDATION_REPORT.md` for the packaging checks performed and limitations.
+
+Before interpreting the deposited outputs, run the package and data-integrity checks:
+
+```bash
+python -m unittest discover -s tests -p 'test_*.py' -v
+```
+
+These checks confirm integrity and selected archived results. They do not replace
+an independent complete scientific rerun in the recorded environment.
 
 The supplied workbook has SHA-256:
 
