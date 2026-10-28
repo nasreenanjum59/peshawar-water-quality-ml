@@ -4,6 +4,14 @@
 **Contents:** analysis-ready dataset, reproducible ML code, archived model outputs and supporting documentation. GitHub is the primary distribution platform; no DOI has been assigned.  
 **Analysis frozen:** 9 October 2026; repository documentation updated 12 October 2026
 
+> **Submission-version notice (28 October 2026):** The archived ML results in this
+> repository come from the earlier 9 October 2026 run. The final submitted
+> v18 manuscript reports an updated seeded rerun, with changed XGBoost results,
+> a fifth WQI-only baseline and revised sensitivity/SHAP outputs. The matching
+> v18 workbook, full rerun script, sample-level predictions and figures have not
+> yet been deposited here. See [v18 ML audit reconciliation](docs/SUBMITTED_V18_ML_ALIGNMENT.md).
+> Do not treat the currently archived ML result tables as the final v18 run.
+
 ## Scope
 
 This repository contains the Python analysis and archived outputs for the
