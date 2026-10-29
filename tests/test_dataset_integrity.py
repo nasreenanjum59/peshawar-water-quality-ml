@@ -8,7 +8,7 @@ from pathlib import Path
 import pandas as pd
 
 DATASET = Path(__file__).resolve().parents[1] / "data" / "WQ_Peshawar_2009-2024_analysis_ready.xlsx"
-EXPECTED_SHA256 = "e2cbaeb755a37a132caef555abe850fc628f13bc1ed1bea3d2c4f4bbd564b89c"
+EXPECTED_SHA256 = "eecf1f7d53ff88c33020862ad0bd585ea85c965cad608b88f38f97f1e2655369"
 
 
 class DatasetIntegrityTests(unittest.TestCase):

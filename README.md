@@ -2,7 +2,7 @@
 
 **Manuscript:** EW-ART-05-2026-000506, *Environmental Science: Water Research & Technology*  
 **Contents:** analysis-ready dataset, reproducible ML code, archived model outputs and supporting documentation. GitHub is the primary distribution platform; no DOI has been assigned.  
-**Analysis frozen:** 9 October 2026; repository documentation updated 12 October 2026
+**Archived model run:** 9 October 2026; source dataset metadata updated from the final 29 October 2026 workbook
 
 ## Scope
 
@@ -72,7 +72,7 @@ an independent complete scientific rerun in the recorded environment.
 
 The supplied workbook has SHA-256:
 
-`e2cbaeb755a37a132caef555abe850fc628f13bc1ed1bea3d2c4f4bbd564b89c`
+`eecf1f7d53ff88c33020862ad0bd585ea85c965cad608b88f38f97f1e2655369`
 
 Check a local copy with `sha256sum data/WQ_Peshawar_2009-2024_analysis_ready.xlsx`
 (or an equivalent SHA-256 utility on your operating system).
@@ -99,10 +99,11 @@ The analysis does not establish added discrimination over source and season.
 2. The 2024 within-year record bootstrap does not account for all repeated-site
    or temporal dependence. It is descriptive, not external validation.
 3. The 17 primary physicochemical predictors exclude nitrate and total nitrogen.
-   The laboratory subsequently confirmed nitrate in mg/L **NO3 ion** rather than
-   NO3-N, while TN is in mg/L N. Earlier nitrate–TN comparison flags therefore
-   need laboratory re-evaluation. The ammonium reporting basis remains to be
-   confirmed. Chemical indices are outside this script.
+   The final laboratory register confirms nitrate in mg/L as **NO3 ion**, TN in
+   mg/L as N, and the original `ammonium_mg_l` field as **ammonia (NH3)**.
+   Column names are kept for compatibility with this archived ML script;
+   interpretation of older nitrogen-related QC flags needs care.
+   Chemical indices are outside this script.
 4. Training-only SMOTE-NC is **secondary**. The main comparison retains
    natural class prevalence. SHAP describes the fitted model, not causation.
 5. This repository does **not** establish model transportability beyond the

@@ -2,10 +2,12 @@
 
 **File:** `WQ_Peshawar_2009-2024_analysis_ready.xlsx`
 
-This workbook is the input used in the 9 October 2026 archived machine-learning
-analysis. Its SHA-256 checksum is:
+This three-sheet workbook contains the final author-confirmed source-data values
+(29 October 2026), in the column layout expected by the archived ML script.
+Its 1,800 records and measured values are unchanged from the original ML input;
+only the data dictionary and analysis notes were clarified. SHA-256 checksum:
 
-`e2cbaeb755a37a132caef555abe850fc628f13bc1ed1bea3d2c4f4bbd564b89c`
+`eecf1f7d53ff88c33020862ad0bd585ea85c965cad608b88f38f97f1e2655369`
 
 The workbook has three sheets: `analysis_data` (1,800 observations;
 40 columns), `data_dictionary` (40 variable descriptions) and
@@ -20,11 +22,12 @@ The workbook retains collection dates, sampling locations and laboratory
 register identifiers to support traceability. Please cite the associated
 study and repository when using these data.
 
-Nitrate concentrations were subsequently confirmed to be expressed as
-mg/L NO3 ion, not NO3-N. The ammonium reporting basis and legacy total-nitrogen
-quality-control flags require separate interpretation; see `docs/METHODS.md`.
-This does not affect the primary ML predictor set, which excludes nitrate and
-total nitrogen.
+The final laboratory record confirms nitrate in mg/L as NO3 ion,
+original `ammonium_mg_l` concentrations in mg/L as ammonia (NH3), and
+`tn_mg_l` in mg/L as N. These source-column names are retained because
+the archived ML code expects them. The legacy nitrogen-related QC flag
+is preserved, not recalculated. The primary predictor set excludes nitrate
+and total nitrogen.
 
 ## Check data integrity
 
